@@ -9,12 +9,28 @@ file = "config/paxi/datapack_load_order.json"
 hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
 
 [[files]]
+file = "config/paxi/datapacks/VanillaTweaks_c617228_MC1.20-1.20.6.zip"
+hash = "e0e5eb203dda57bfa3bec9ed6ba71c0c7695548d993be68ef6da19aa26f133ca"
+
+[[files]]
+file = "config/paxi/datapacks/cauldron concrete v3.0.1 (MC 1.21-1.21.1).zip"
+hash = "15bc47ed9716b90c0bf7cf568307c1e58d246ab3e4f38e1a994180ac5f048d9a"
+
+[[files]]
+file = "config/paxi/datapacks/cauldron mud v1.0.1 (MC 1.21-1.21.1).zip"
+hash = "fdabcae0d5736b6a72be57c0c8901250e033bb761b47b7b669e89feb5295b9cd"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r182474_MC1.20.x.zip"
 hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
+
+[[files]]
+file = "kubejs/server-scripts/more-recipes.js"
+hash = "1ac8050900c42f945c667c74c73c885277f806f7589185170714749464066ffa"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -258,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+hash = "e442b150272b9f882cbbf138ff68b4c67a9ad7d106999ace21d965c76b60d948"
 metafile = true
 
 [[files]]
@@ -469,6 +485,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "5f74332db22a2eda4c05a7469cf57af07438ccb3fbb016b1ba9131b7164e7a1a"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "19cd0f4454102e6db4f67ebccbb0b4a83b38cc8f2fbfaaedfe2f88a974d17a9e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3b72338a2d9e9a50110e0c159d84a681b8257a60bc72fd5a547c2f0c0f288f35"
 metafile = true
 
 [[files]]
