@@ -29,7 +29,7 @@ file = "config/paxi/resourcepacks/VanillaTweaks_r182474_MC1.20.x.zip"
 hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
 
 [[files]]
-file = "kubejs/server-scripts/more-recipes.js"
+file = "kubejs/server-scripts/more_recipes.js"
 hash = "53e7e0cb8fd9538c1f14731c04a382580844146fa280039f3c7169da61617618"
 
 [[files]]
