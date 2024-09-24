@@ -1,6 +1,6 @@
 name = "Harvest with ease"
 filename = "harvest-with-ease-fabric-1.20.1-9.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/F0rAkd7c/harvest-with-ease-fabric-1.20.1-9.2.0.jar"

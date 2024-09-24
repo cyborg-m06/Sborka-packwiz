@@ -1,6 +1,6 @@
 name = "Cactusfix"
 filename = "cactusfix-1.2.1-mc1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z29y9YGt/versions/9MnXKOl9/cactusfix-1.2.1-mc1.20.jar"

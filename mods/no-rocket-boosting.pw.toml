@@ -1,6 +1,6 @@
 name = "No Rocket Boosting"
 filename = "no-rocket-boosting-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Dpilnxtl/versions/zGemlmwK/no-rocket-boosting-1.0.0.jar"
