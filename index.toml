@@ -34,7 +34,7 @@ hash = "68e1ac2fd11c1387fbe738447e808ce2c89695722b26a9c17879ae902c5402bd"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "b86a897d96833e11864689d68bb6a45e8889aabe6c653bc428e83b8fc675e73f"
+hash = "63291a20ec76ede466e013496710f0eed8b0aab5fe3ee706cd16ce319e0a34ad"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/fully-enchanced.pw.toml"
-hash = "2409297102eba201d5f4c155d18b5a709d974772fe5235fb3a5932c24b86c2cc"
+hash = "0e701dc2236a4610329f6b9b76fb3575ea1f4a41100539c2ebca2cff49732011"
 metafile = true
 
 [[files]]
