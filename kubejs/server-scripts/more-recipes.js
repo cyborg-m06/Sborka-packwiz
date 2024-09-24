@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
 		'minecraft:nether_wart_block'
 	]);
 	
-	event.smelting('minecraft:leather', 'minecraft:rotten_flesh')
+	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 	
 	console.log('Custom recipes added');
 })

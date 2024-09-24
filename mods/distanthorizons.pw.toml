@@ -14,5 +14,5 @@ version = "20nF6i21"
 
 [option]
 default = false
-description = "Very high render distances using LODs. Heavy performance impact. Supports Iris shaderpacks"
+description = "Very high render distances using LODs. Heavy performance impact. Currently incompatible with Iris"
 optional = true

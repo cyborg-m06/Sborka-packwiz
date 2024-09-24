@@ -30,7 +30,7 @@ hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
 
 [[files]]
 file = "kubejs/server-scripts/more-recipes.js"
-hash = "1ac8050900c42f945c667c74c73c885277f806f7589185170714749464066ffa"
+hash = "53e7e0cb8fd9538c1f14731c04a382580844146fa280039f3c7169da61617618"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "e442b150272b9f882cbbf138ff68b4c67a9ad7d106999ace21d965c76b60d948"
+hash = "1081081fb955eb88f8ad0123cc6821dfde18f0562674cc311c1944062425fe28"
 metafile = true
 
 [[files]]
