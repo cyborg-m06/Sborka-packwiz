@@ -1,0 +1,13 @@
+name = "Cactusfix"
+filename = "cactusfix-1.2.1-mc1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z29y9YGt/versions/9MnXKOl9/cactusfix-1.2.1-mc1.20.jar"
+hash-format = "sha512"
+hash = "20b1d0f8fc8aa40faa62917540d5b54f64c80a741a3b538b7c06a7f235ccf3437e505410ca99ef92e67ee63886bab93b7e887b2aa472a2fcabe20f21a2bca2b8"
+
+[update]
+[update.modrinth]
+mod-id = "Z29y9YGt"
+version = "9MnXKOl9"

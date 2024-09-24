@@ -1,0 +1,13 @@
+name = "Dice (Fabric Port)"
+filename = "Dice-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QLhNITvE/versions/2QpjBmjF/Dice-1.0.0.jar"
+hash-format = "sha512"
+hash = "ec7048914a771b20d151089338608478de9020c0231dec26af4a043ad4dfe44787c1629b9a44a875b10e3345bffddc25402cd3632ec8c8fb38a6266e98fcaa70"
+
+[update]
+[update.modrinth]
+mod-id = "QLhNITvE"
+version = "2QpjBmjF"

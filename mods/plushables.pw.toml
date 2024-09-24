@@ -1,0 +1,13 @@
+name = "Plushables"
+filename = "plushables-fabric-mc1.20.1+1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpUgmHBo/versions/ki6fSsh4/plushables-fabric-mc1.20.1%2B1.1.3.jar"
+hash-format = "sha512"
+hash = "d92a42fdec5c253c66a9535bc8b0f6c43ca4e9e4160fc5a65dd6c79417146c66604b6d1105c3e1210c9d89f5b9a801a5bece5455731b46eff0ebcb4522450069"
+
+[update]
+[update.modrinth]
+mod-id = "bpUgmHBo"
+version = "ki6fSsh4"

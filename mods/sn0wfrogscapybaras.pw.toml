@@ -1,0 +1,13 @@
+name = "Sn0wfrog's Capybaras"
+filename = "Sn0wfrog's Capybaras 1.1.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oCTFqcH2/versions/ueqkWwPD/Sn0wfrog%27s%20Capybaras%201.1.0-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "f2604d1b2bd9c39e1c205e88c7511d66b6d7e25efdd3acf19519299221aa2dd10350ce71f30eb6348da8544689e7fff59b150a218da43f38a1b2252621c81219"
+
+[update]
+[update.modrinth]
+mod-id = "oCTFqcH2"
+version = "ueqkWwPD"

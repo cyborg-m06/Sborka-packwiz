@@ -1,0 +1,13 @@
+name = "Useful Mobs"
+filename = "useful-mobs-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/elYq283b/versions/SDnxxntN/useful-mobs-2.2.jar"
+hash-format = "sha512"
+hash = "d8d10f979b82a6e95420846c86336877ed406487b1d25733134fe5a92f1f278bec0656d0d46e4bce70e39fed0691eda8e859acf68fbb4868df69f019b9ecb2cb"
+
+[update]
+[update.modrinth]
+mod-id = "elYq283b"
+version = "SDnxxntN"

@@ -1,0 +1,13 @@
+name = "Dracomelette"
+filename = "dracomelette-1.20-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gpafbSiH/versions/W6p1lRIy/dracomelette-1.20-2.jar"
+hash-format = "sha512"
+hash = "aca00899c11467645fed8504c85df458784fecc56a5f719d6b0b3684443570a87a6b2c6705b6b07b24770e8db2b33a3afcd6cc3b95de89853b30a15de7fe8a6b"
+
+[update]
+[update.modrinth]
+mod-id = "gpafbSiH"
+version = "W6p1lRIy"

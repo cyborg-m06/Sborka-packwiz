@@ -1,0 +1,13 @@
+name = "Leashable Villagers"
+filename = "leashablevillagers-1.1-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WkgSMbrT/versions/VuJvRPH0/leashablevillagers-1.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "2f8fbf334337f6bda07e71417c691ace77d325feaba084380b854a95041f5c637d71847481f7350d3afef417e867e0fd1c244f08b1fc390792d2cece30a6669c"
+
+[update]
+[update.modrinth]
+mod-id = "WkgSMbrT"
+version = "VuJvRPH0"

@@ -1,0 +1,13 @@
+name = "Cobweb"
+filename = "cobweb-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQcfqGbl/versions/AyWecby3/cobweb-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "ceab60100b0007faf5e0e3b2b0412a5846dfef747542ea9b19fa7e26931a888c36fcfbfab63a9e4c7e71320056177f5a07bd2640a185e112363c6e4f5d777456"
+
+[update]
+[update.modrinth]
+mod-id = "dQcfqGbl"
+version = "AyWecby3"
