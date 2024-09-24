@@ -30,7 +30,7 @@ hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "53e7e0cb8fd9538c1f14731c04a382580844146fa280039f3c7169da61617618"
+hash = "68e1ac2fd11c1387fbe738447e808ce2c89695722b26a9c17879ae902c5402bd"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
