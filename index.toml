@@ -5,8 +5,28 @@ file = "README"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/aileron.json"
+hash = "46fcc01d73ca2e5acf19503bfd84cf0f6cdfa8a501bc8ae0f603fec379f67237"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "ae3efab2ddb87e41afde5ad47bc51331020cb410761daa2c591f71dd7b10cb6b"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "9ecc33fb9016d97f3c239739bb6c40aeda2082bf2367e30b6771a4d828dea66f"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
+
+[[files]]
+file = "config/paxi/datapacks/CustomData/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
+hash = "e7a78706989c378794bd72f814d9fe8a1486fc64d546bd8e56271c4c1990a46c"
+
+[[files]]
+file = "config/paxi/datapacks/CustomData/pack.mcmeta"
+hash = "01b88956c01517d279258698843a698c6af8ea58bc4a1f0d6ebfad11153b1e4e"
 
 [[files]]
 file = "config/paxi/datapacks/VanillaTweaks_c617228_MC1.20-1.20.6.zip"
@@ -27,6 +47,38 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r182474_MC1.20.x.zip"
 hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "85cc06508645172c4aa9c18691235209bcd1c8eb892ad418e6bdfd4654eee818"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "3c7ce9e5cafc8d265c8f53fa684933e3f80e99ec6105d7d8e82c5933de542297"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "66146dcd0169d7872a3ff633aa0797ed7977ba4e2b7326c197b27e17c73c89b2"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "1125d4fd45114342591b45301334d19572dfadd32b192ee6a63e0b7f7cee36a3"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "e16066808d90e3d89e806d833bc6adb3ddfe9132f38198e6b2ad0c3b5851f594"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
@@ -393,11 +445,6 @@ hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
 
 [[files]]
-file = "mods/fast-paintings.pw.toml"
-hash = "3566b1a7757a2fe5147a969cf41f635dfaaab4709f51a4ef3e1522e89694a722"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -678,6 +725,10 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/phonos-1.0.0-beta.19+1.20.1.jar"
+hash = "8c6d72f8d0e5190b70172241d8a01fa72144a40836cad3ab3852f5fa244be0a4"
+
+[[files]]
 file = "mods/plushables.pw.toml"
 hash = "248a90835ac6657f59a9bb8a9f9d720c78046e197b8008c5e265616900cbacd7"
 metafile = true
@@ -790,11 +841,6 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "64d83585506d7b0235001b79ac243e95c8c081d81b938a3c553233092bbd60c8"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "42493b647c2049eebfd56bf80c25daca0705920f278cd521223c4376b2e52983"
 metafile = true
 
 [[files]]
