@@ -10,7 +10,7 @@ hash = "46fcc01d73ca2e5acf19503bfd84cf0f6cdfa8a501bc8ae0f603fec379f67237"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "ae3efab2ddb87e41afde5ad47bc51331020cb410761daa2c591f71dd7b10cb6b"
+hash = "a65419169acebc050a7d31d74464a9f93525ffeecf8323c9b0fd982e612d91ed"
 
 [[files]]
 file = "config/friendsandfoes.json"
