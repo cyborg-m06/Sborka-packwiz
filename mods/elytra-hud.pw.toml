@@ -1,0 +1,18 @@
+name = "Elytra HUD (from MFS 2020)"
+filename = "elytrahud-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWQYLnss/versions/peQxn2iF/elytrahud-1.0.2.jar"
+hash-format = "sha512"
+hash = "2ee66f984a76dbd1aee27fb82ec87e92831d2b58c31d4016d65d256b2ca27bc5ab3e4b40518cd4b86abda86e327b444f4ff571fb7286749bb54bbbea9eb23312"
+
+[update]
+[update.modrinth]
+mod-id = "pWQYLnss"
+version = "peQxn2iF"
+
+[option]
+default = false
+description = "Microsoft Flight Sim Hud lol"
+optional = true

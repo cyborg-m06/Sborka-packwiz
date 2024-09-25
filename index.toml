@@ -33,6 +33,11 @@ file = "kubejs/server_scripts/more_recipes.js"
 hash = "68e1ac2fd11c1387fbe738447e808ce2c89695722b26a9c17879ae902c5402bd"
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "8dfd5c5edebebb525b6c2bd9365bd7a3869ce98fb5b1329a7fee8094e98d13dc"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
@@ -320,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/effortless.pw.toml"
 hash = "fb8c406df1d243e232f370c91d84be4685078a00f9bc17316f20b9d15b65b460"
+metafile = true
+
+[[files]]
+file = "mods/elytra-hud.pw.toml"
+hash = "77288759a777d4fc495ca0d5f2e1fe9bc2febb89a14f626bce3c4d0f5af78a34"
 metafile = true
 
 [[files]]
@@ -625,11 +635,6 @@ metafile = true
 [[files]]
 file = "mods/no-prying-eyes.pw.toml"
 hash = "27781fb98021262c522b5520ff455157a0a95816d7aac865ee1fdd1c445b0b6a"
-metafile = true
-
-[[files]]
-file = "mods/no-rocket-boosting.pw.toml"
-hash = "2839db6ac85eee767ed93472db7741da3f8ae021a5c69547b5d5e848d0b440d1"
 metafile = true
 
 [[files]]
