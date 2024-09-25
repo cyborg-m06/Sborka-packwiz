@@ -508,3 +508,4 @@
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
 		poweredTrainAcceleration = 3.0
+
