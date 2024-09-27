@@ -22,7 +22,7 @@ hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
-hash = "e7a78706989c378794bd72f814d9fe8a1486fc64d546bd8e56271c4c1990a46c"
+hash = "2349ed6c483d4acbb42ef3fa86b8c8a5b61224bdf2742ad9445bdb004279e969"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/pack.mcmeta"
@@ -100,6 +100,16 @@ hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "5490ad69693f2a3ce73258b3fdb0dec2026afdcef218bece6834f112c0ad7382"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "0eee1e0d3784b54657a0e845f01f389e120bc1ffc1cf997d91eb74e683fb48bd"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "e8d8fda7893c13e034a09b33d0a1258a54b0445d533f90d00a50d9a8d862921a"
 metafile = true
@@ -117,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "d7d3a464c8668c8a96124b8c98bd7289de41ec211a967a553dcd516c8ab0aee9"
-metafile = true
-
-[[files]]
-file = "mods/audioplayer.pw.toml"
-hash = "63291a20ec76ede466e013496710f0eed8b0aab5fe3ee706cd16ce319e0a34ad"
 metafile = true
 
 [[files]]
@@ -831,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/spindlemark.pw.toml"
+hash = "c8978dd0983a8212e84200df7de8195544c87d207397c8f7d0ce931e306fea8b"
 metafile = true
 
 [[files]]
