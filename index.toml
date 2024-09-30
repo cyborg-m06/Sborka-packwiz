@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "89d563aa62aae2c608f1006a1d31186b9657dc53a869fd53e94c467423a3a146"
+hash = "2b5bcee81f7a1cea0d67ea9b8afdd88523db60338e2553e0b38db12830341057"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "bde029164b9f822912160e13fbb927b9f1d12f2dd53d5d705e90718777dd0389"
+hash = "5fb584e42f989f87e25b99a59258586528afe10d50b8826a2940f5f1cd76b82a"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "03263de90ee530441c504d15d74086d5d77b2f9b1271914c06f98ac186659254"
+hash = "4742439448b65074d10f7bc9279bd719bc6998df7c9715f1effad8b952d0dbd7"
 metafile = true
 
 [[files]]
@@ -432,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "1022783093409686e3f0387fe8a43982a0d61226878193654efead8563009d96"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "12def2527a465f686d1bfdf0a52b4c7d779a893c4a5f1f1c6506eab0059b6686"
+hash = "22c2f738419d506ed4f72d0c305d82b66ec01177fad7e3cd7d818bb00ac257a3"
 metafile = true
 
 [[files]]
@@ -610,6 +615,11 @@ hash = "0b8e759353c2f52b2eec3277693e151e7c1f41df7db88875dab1f9672d4b45ca"
 metafile = true
 
 [[files]]
+file = "mods/magic-origins.pw.toml"
+hash = "7ab7d66fee97a010093ffd08c481b2588cb0fc0cc876f7ba3c1dec68b052911e"
+metafile = true
+
+[[files]]
 file = "mods/meow!.pw.toml"
 hash = "6d7a01258ea36fc932bc127e18d7b56cf7eb3335350140992b16f5d378adde69"
 metafile = true
@@ -651,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "74ac3f7f185945dd5f92c2cf22991a002f1f1b59ccf6bf5f907c7bda4bad66a1"
+hash = "e7204e52e61c37d96c0362b4ec69cb96ef04a2c66c7c60dc46e59aa7cc029bd3"
 metafile = true
 
 [[files]]
@@ -696,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "8b14c6e52f920b17754af8eb477dd6cef75c5117bd098b1c7bce80676bb7486d"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
@@ -707,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "ddca38b0907f4ce306a04012a8aa131e0e0d1952ea0e0074ac363e70b36e07ce"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]
