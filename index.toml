@@ -784,6 +784,11 @@ hash = "c0fedebdad2a7f3a967347aa3ead296cb8aec0edffea510d8c5880b752ea303d"
 metafile = true
 
 [[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "ee1f1103f1d3c401e4794273149ffd85f078934d3997fc2f922041705f391726"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "6a0e0360ed2eaed1e6ff40c705e81725fe530cd5b6fb0dbf81e03d1f05a14317"
 metafile = true
