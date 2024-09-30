@@ -194,12 +194,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "c14318e07b2f43246b24e787ed38366309bcb063f62d1173f323a8578b054688"
+hash = "abc9b72e8e68b9ee1806e40de94f4831031fd63fc1d430d0cc79384b0f8c5d5f"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
