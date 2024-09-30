@@ -193,6 +193,16 @@ hash = "99db4a80352566c98d249065bf37e332d1b26f63cda693bdfaf031795047b275"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "c14318e07b2f43246b24e787ed38366309bcb063f62d1173f323a8578b054688"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "f9a69af0c4d6a3e958227ca4d3bfe4930ffc734bc7df5616587225dec89c6ae6"
 metafile = true
@@ -618,6 +628,11 @@ hash = "c036fba25fdb9a9206b3cdf0cc94d3f1877c63fbf47ce7199bd09358c6289dea"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e9aabc3f7f33eb0fd1b31ad33e188feb1a65dce5531b141fa988ec9fbade0146"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "0b8e759353c2f52b2eec3277693e151e7c1f41df7db88875dab1f9672d4b45ca"
 metafile = true
@@ -720,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "d5f2de9994336455098612492f4e0e3042b43864adf0433227327eb02fc841d9"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
 metafile = true
 
 [[files]]
