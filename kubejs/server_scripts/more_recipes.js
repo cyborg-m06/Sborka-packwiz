@@ -127,7 +127,7 @@ ServerEvents.recipes(event => {
 	], 	{
 		A: 'createaddition:connector',
 		B: '#minecraft:planks',
-		C: 'minecraft:redstone_comparator'
+		C: 'minecraft:comparator'
 		}
 	);
 	
@@ -163,6 +163,24 @@ ServerEvents.recipes(event => {
 		D: 'minecraft:diamond'
 		}
 	);
+	
+	event.shaped("phonos:audio_cable", [
+	'A',
+	'B',
+	'A',
+	], {
+		A: "create:copper_nugget",
+        B: "#createaddition:spools"
+    });
+	
+	for (let index in Color.DYE) {
+        /** @type {Internal.DyeColor} */
+        let color = Color.DYE[index];
+        event.shapeless(`phonos:${color.serializedName}_audio_cable`, [
+            `minecraft:${color.serializedName}_dye`,
+			'phonos:audio_cable'
+        ]);
+    }
 	
 	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 	
