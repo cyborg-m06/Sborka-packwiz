@@ -90,7 +90,7 @@ hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "b82195fc9c815a47c631a58fb20c901971a85fc41e9265e9a19d420cb11b9574"
+hash = "b9436526e72d43e7609b052ffd3da94b7cd8c21a2f9c663e8c1583be44f73b79"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+hash = "76ec8272311f7b16313655db276f0f99b8212a41de2c14b68a7efa8d875e411b"
 metafile = true
 
 [[files]]
@@ -260,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/configurable-despawn-timer.pw.toml"
 hash = "dfeb610fc9ab0a380e63bf3f11dc0ad93d5b1a66647a165088e2364717014e3b"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "b0a8af8d74a07e5d7b9197c3b19e93d8b2f595c9bca056567925d1ed83dd0d7c"
 metafile = true
 
 [[files]]
@@ -409,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "308042da19196b5d76e26cb76b3cef11d992474460c1c2219feecd19ec0fcb8c"
+hash = "8b264027fe8db792f6fd4ab1382e05768e5d825b825d0bc6407c96d92cb3ee89"
 metafile = true
 
 [[files]]
@@ -514,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "10193b001afd0259ef3c675d1f3c09208cda7af4609bb0623c6cd2187e33fdda"
+hash = "ae6f348bf819766652cc5239404cfa02f03fa0580d686b7c7215576e12f45e00"
 metafile = true
 
 [[files]]
@@ -584,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b4294abbbcd58b6a32d29fc2d4e3faa7b81e7e0c138020c26f87018db7dc061e"
+hash = "4af04fd9c05396cbce0d8a159ccc98393bed3bb3d071317b9add16db7e824d02"
 metafile = true
 
 [[files]]
@@ -684,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e7204e52e61c37d96c0362b4ec69cb96ef04a2c66c7c60dc46e59aa7cc029bd3"
+hash = "f5a0e542f356833ac3f4a5ed036da26bbfc1466e522f5ec20af1420e9b94bc10"
 metafile = true
 
 [[files]]
@@ -808,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c0fedebdad2a7f3a967347aa3ead296cb8aec0edffea510d8c5880b752ea303d"
+hash = "9d924898135876e8719c7e59cebe9c31811f405d65ccbdaa9305ec47c10263b8"
 metafile = true
 
 [[files]]
@@ -853,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "86db57de811b1c5d242fd52281ebf6c0a80c72b811991cd3cb72631f482bc196"
+hash = "6555ec5e9839c367ff8494d7856587999e5e3f3d4832287661a552033ec15048"
 metafile = true
 
 [[files]]
@@ -977,6 +982,16 @@ hash = "973d1354978c7d51630fc6af1f7c1c79421396d3f1373aa3864d87d664d63ad5"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft-compat.pw.toml"
+hash = "51f82fa419fd22c900195f0b300886925d052565173d6688c62c4bc3bc56896f"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "a001b617b8c4c9e1587f94d9ab789228243f8c3a9c8b65725d3cfd91123c0475"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "03c2ff3f5a8199f5ef283581b9f8ef3c5bd147ebc3705998a3eb9e3b8264e9b6"
 metafile = true
@@ -998,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "4d0c5a4bfb516e886803194c72e59d2c0b8be576e617dd71f364c80c8a01a6b5"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
@@ -1049,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "a3f44136de67f6082858d7f21dd576d93874f0225b91bff2a4e13fe90877dde7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "81db081393ed5183e2fe1815bd0e8927fee60b4f09643567a9da2989ae212878"
 metafile = true
 
 [[files]]

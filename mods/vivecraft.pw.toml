@@ -1,0 +1,18 @@
+name = "Vivecraft"
+filename = "vivecraft-1.20.1-1.1.12-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/l0ygXSAh/vivecraft-1.20.1-1.1.12-fabric.jar"
+hash-format = "sha512"
+hash = "87bcda9143efb3e0350b7cf10990f43f4234ea9d332483d99a2fd6638a75802fad73b1f774363b27eb9e9b6c0d3c042b3081ba3f5482e88ff041b3b960108cd0"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "l0ygXSAh"
+
+[option]
+default = false
+description = "VR support. Also allows you to see other players using VR mode."
+optional = true

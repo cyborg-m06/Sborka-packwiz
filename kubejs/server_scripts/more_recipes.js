@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
 	]);
 	
 	event.shapeless('phonos:loudspeaker', [ // arg 1: output
-		'minecraft:note_block',
+		'supplementaries:speaker_block',
 		'createaddition:connector'
 	]);
 	
@@ -107,7 +107,7 @@ ServerEvents.recipes(event => {
 	);
 	
 	event.shapeless('phonos:radio_loudspeaker', [ // arg 1: output
-		'minecraft:note_block',
+		'supplementaries:speaker_block',
 		'minecraft:iron_bars'
 	]);
 	
@@ -181,6 +181,36 @@ ServerEvents.recipes(event => {
 			'phonos:audio_cable'
         ]);
     }
+	
+	event.shaped('phonos:headset', [// arg 1: output
+    ' A ', 
+    'B B'
+	], 	{
+		A: 'minecraft:iron_ingot',
+		B: 'phonos:loudspeaker',
+		}
+	);
+	
+	event.shapeless('phonos:portable_radio', [ // arg 1: output
+		'phonos:radio_loudspeaker',
+	]);
+	
+	event.shapeless('phonos:radio_loudspeaker', [ // arg 1: output
+		'phonos:portable_radio',
+	]);
+	
+	event.shapeless('phonos:portable_satellite_radio', [ // arg 1: output
+		'phonos:portable_radio',
+		'create:electron_tube'
+	]);
+	
+	event.shapeless('phonos:portable_record_player', [ // arg 1: output
+		'minecraft:jukebox',
+	]);
+	
+	event.shapeless('minecraft:jukebox', [ // arg 1: output
+		'phonos:portable_record_player',
+	]);
 	
 	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 	
