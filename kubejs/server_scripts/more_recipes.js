@@ -1,8 +1,7 @@
 ServerEvents.recipes(event => { 
 	event.shaped('minecraft:saddle', [// arg 1: output
     'AAA', 
-    'BCB', // arg 2: the shape (array of strings)
-    '   '  
+    'BCB' // arg 2: the shape (array of strings)  
 	], 	{
 		A: 'minecraft:leather', 
 		B: 'minecraft:string',  //arg 3: the mapping object
@@ -49,6 +48,121 @@ ServerEvents.recipes(event => {
 	event.shapeless('9x minecraft:nether_wart', [ // arg 1: output
 		'minecraft:nether_wart_block'
 	]);
+	
+	event.shapeless('phonos:loudspeaker', [ // arg 1: output
+		'minecraft:note_block',
+		'createaddition:connector'
+	]);
+	
+	event.shaped('phonos:electronic_note_block', [// arg 1: output
+    'A', 
+    'B', // arg 2: the shape (array of strings)
+    'C'  
+	], 	{
+		A: 'create:electron_tube',
+		B: 'minecraft:note_block',
+		C: 'createaddition:connector'
+		}
+	);
+	
+	event.shaped('phonos:electronic_jukebox', [// arg 1: output
+    'A', 
+    'B', // arg 2: the shape (array of strings)
+    'C'  
+	], 	{
+		A: 'create:electron_tube',
+		B: 'minecraft:jukebox',
+		C: 'createaddition:connector'
+		}
+	);
+	
+	event.shaped('phonos:connection_hub', [// arg 1: output
+    ' A ', 
+    'ABA', // arg 2: the shape (array of strings)
+    ' A '  
+	], 	{
+		A: 'createaddition:connector',
+		B: '#minecraft:planks'
+		}
+	);
+	
+	event.shaped('phonos:radio_transceiver', [// arg 1: output
+    ' C ', 
+    'ABA'
+	], 	{
+		A: 'createaddition:connector',
+		B: '#minecraft:planks',
+		C: 'minecraft:iron_bars'
+		}
+	);
+	
+	event.shaped('phonos:satellite_transceiver', [// arg 1: output
+    ' C ', 
+    'ABA'
+	], 	{
+		A: 'createaddition:connector',
+		B: '#minecraft:planks',
+		C: 'create:electron_tube'
+		}
+	);
+	
+	event.shapeless('phonos:radio_loudspeaker', [ // arg 1: output
+		'minecraft:note_block',
+		'minecraft:iron_bars'
+	]);
+	
+	event.shaped('phonos:satellite_station', [// arg 1: output
+    'C  ', 
+    'BBA'
+	], 	{
+		A: 'createaddition:connector',
+		B: '#minecraft:planks',
+		C: 'create:electron_tube'
+		}
+	);
+	
+	event.shaped('phonos:audio_switch', [// arg 1: output
+    ' C ', 
+    'ABA'
+	], 	{
+		A: 'createaddition:connector',
+		B: '#minecraft:planks',
+		C: 'minecraft:redstone_comparator'
+		}
+	);
+	
+	event.shaped('phonos:ender_music_box', [// arg 1: output
+    ' C ', 
+    'ABA'
+	], 	{
+		A: 'createaddition:connector',
+		B: 'minecraft:jukebox',
+		C: 'exposure:interplanar_projector'
+		}
+	);
+	
+	event.shaped('phonos:microphone_base', [// arg 1: output
+    'A', 
+    'B',
+	'C'
+	], 	{
+		A: 'minecraft:calibrated_sculk_sensor',
+		B: 'minecraft:iron_ingot',
+		C: 'createaddition:connector'
+		}
+	);
+	
+	event.shaped('phonos:satellite', [// arg 1: output
+    ' A ', 
+    'DBD',
+	' C '
+	], 	{
+		A: 'create:electron_tube',
+		B: 'minecraft:firework_rocket',
+		C: 'minecraft:copper_ingot',
+		D: 'minecraft:diamond'
+		}
+	);
 	
 	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 	
