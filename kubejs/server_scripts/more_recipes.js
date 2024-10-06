@@ -96,7 +96,7 @@ ServerEvents.recipes(event => {
 		}
 	);
 	
-	event.shaped('phonos:satellite_transceiver', [// arg 1: output
+	event.shaped('phonos:satellite_receiver', [// arg 1: output
     ' C ', 
     'ABA'
 	], 	{
