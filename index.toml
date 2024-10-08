@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4742439448b65074d10f7bc9279bd719bc6998df7c9715f1effad8b952d0dbd7"
+hash = "feae8e3d7fe67fc6a9cae5c4c59ae1c5a7b202059ff16c55cc9c8b9d81509aba"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/fully-enchanced.pw.toml"
-hash = "0e701dc2236a4610329f6b9b76fb3575ea1f4a41100539c2ebca2cff49732011"
+hash = "9c710070501896b79860390f5374877790bab0107c12f5694d220575d0bd853e"
 metafile = true
 
 [[files]]
@@ -584,12 +584,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4af04fd9c05396cbce0d8a159ccc98393bed3bb3d071317b9add16db7e824d02"
+hash = "88a665fe5b5b8dfd8535db068e9972d8a41af502602fc600a931520e434637ae"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6a9951106b0120418e37b8e91acafd53a8b5de126654bc6f0f2c4e5be1a223cf"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
 metafile = true
 
 [[files]]
@@ -640,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/magic-origins.pw.toml"
 hash = "7ab7d66fee97a010093ffd08c481b2588cb0fc0cc876f7ba3c1dec68b052911e"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f251cafe3cd3297df6a055a1d5df2c3390f791e2420fc666c5b9ee7fc62126b1"
 metafile = true
 
 [[files]]
@@ -718,8 +723,8 @@ hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
 metafile = true
 
 [[files]]
-file = "mods/no-prying-eyes.pw.toml"
-hash = "27781fb98021262c522b5520ff455157a0a95816d7aac865ee1fdd1c445b0b6a"
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
@@ -773,8 +778,8 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.0.0-beta.19+1.20.1.jar"
-hash = "8c6d72f8d0e5190b70172241d8a01fa72144a40836cad3ab3852f5fa244be0a4"
+file = "mods/phonos-1.1.0-beta.3+1.20.1.jar"
+hash = "4316d3d77283a1518ed46452cc54f0d52f5c9b877ad8ba0a93d7dac0e036a8b3"
 
 [[files]]
 file = "mods/plushables.pw.toml"
