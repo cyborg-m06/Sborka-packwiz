@@ -1,0 +1,13 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/FYFy0x3E/MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
+hash-format = "sha512"
+hash = "7da709f73cba0e1571efc91a306fcb66b99318ab869e66f577b9aa1d7588661e9c0aff3e1d07fef998a0db49126103feabf75b567a365a37bc7dcf3db3ce106c"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "FYFy0x3E"

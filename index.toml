@@ -98,6 +98,11 @@ hash = "8dfd5c5edebebb525b6c2bd9365bd7a3869ce98fb5b1329a7fee8094e98d13dc"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "d8577a489a8e9c90a4207931ebba22d2ef81bacfb68e794032d78952173e95f8"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
@@ -409,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "8b264027fe8db792f6fd4ab1382e05768e5d825b825d0bc6407c96d92cb3ee89"
+hash = "730277ea82f283cbb7812857e13129b4c65359b5bd3e163d4461bf6749f06a35"
 metafile = true
 
 [[files]]
@@ -464,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "389538e866293880436261a2f7a153369001999bd92a2b7dd1af961d4e028014"
+hash = "f4028c108eeadb5f916bcd043e85d8c34dd0f28d10a65595b7ee676f219439c6"
 metafile = true
 
 [[files]]
@@ -645,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f251cafe3cd3297df6a055a1d5df2c3390f791e2420fc666c5b9ee7fc62126b1"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "ee6482b8178c0412beadfe8be78085fe398a6ac3f478ce9683af2aa48ed495c1"
 metafile = true
 
 [[files]]
@@ -689,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f5a0e542f356833ac3f4a5ed036da26bbfc1466e522f5ec20af1420e9b94bc10"
+hash = "9941ec11ec88cfce6236d3580284423c5ff389e9b29a36001edd00642fdd72ef"
 metafile = true
 
 [[files]]
@@ -778,8 +788,8 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.1.0-beta.3+1.20.1.jar"
-hash = "4316d3d77283a1518ed46452cc54f0d52f5c9b877ad8ba0a93d7dac0e036a8b3"
+file = "mods/phonos-1.1.1-beta.1+1.20.1.jar"
+hash = "fec6b19a192249be04ead407974f40d7bfb5e14402b42da391e46f4d7cc1f098"
 
 [[files]]
 file = "mods/plushables.pw.toml"
@@ -858,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6555ec5e9839c367ff8494d7856587999e5e3f3d4832287661a552033ec15048"
+hash = "0c4bdde66e3da6c7b7e6bec240921b46da85c3e17c9d7e4e45f85c4370f96a3f"
 metafile = true
 
 [[files]]
