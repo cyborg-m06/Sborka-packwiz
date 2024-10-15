@@ -13,6 +13,10 @@ file = "config/create-server.toml"
 hash = "d0d984dbc51537085d00212cb24bebc369ad2cc25f5ade5d0d20a18c23bcc655"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "27047bd534ac44036a9ccb6e889cf9fef9c86499a717182d2a1bd9ec8102192d"
+
+[[files]]
 file = "config/friendsandfoes.json"
 hash = "e1a4fe6c00d4065175eb43097e67eb5c1eeb2539dd8496c3cf53dfc81092b45e"
 
