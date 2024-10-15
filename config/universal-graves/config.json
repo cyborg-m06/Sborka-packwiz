@@ -50,13 +50,9 @@
   },
   "teleportation": {
     "cost": {
-      "type": "item",
-	  "input": {
-		"id": "minecraft:ender_pearl",
-		"count": 10,
-		"tag": {}
+      "type": "level",
+	  "count": 20
 	  }
-    },
     "required_time": 5,
     "y_offset": 1.0,
     "invincibility_time": 5,

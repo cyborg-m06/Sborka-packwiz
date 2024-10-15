@@ -66,7 +66,7 @@ hash = "3c7ce9e5cafc8d265c8f53fa684933e3f80e99ec6105d7d8e82c5933de542297"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "66146dcd0169d7872a3ff633aa0797ed7977ba4e2b7326c197b27e17c73c89b2"
+hash = "e9d49358351137fccc2072b7547ba73096892c9324ebb1faa27f3dbd91e879b0"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_player.json"
@@ -110,16 +110,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether-height.pw.toml"
-hash = "5490ad69693f2a3ce73258b3fdb0dec2026afdcef218bece6834f112c0ad7382"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "0eee1e0d3784b54657a0e845f01f389e120bc1ffc1cf997d91eb74e683fb48bd"
 metafile = true
 
 [[files]]
@@ -303,6 +293,11 @@ hash = "f38dc6a87e6d7c5d6055364dbba6954df4c67c73fcc5e887426e9e79bd91fcfd"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
 metafile = true
@@ -319,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "6f074190d0c3770c0e8a1bed339753e70d00733b87f3559ae8d379416d080821"
+hash = "8cf794fb79858ccbc1be9f4203b5a6603536b296650c17854a6b9dcc129476af"
 metafile = true
 
 [[files]]
@@ -494,12 +489,12 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "b93fec1eedc779969d10734bd895a310a9a043d24b91f2bf1f2c049cdebd4caf"
+hash = "d9f6f4f9b2bd3e38264d407558636fcb897cb1b0a5d0bef53f02ef139b7d0160"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "22c2f738419d506ed4f72d0c305d82b66ec01177fad7e3cd7d818bb00ac257a3"
+hash = "0f9903972d70f067d101a16f43c07a3c885e46b729dc949462d93b7dd7b08bd9"
 metafile = true
 
 [[files]]
@@ -555,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9941ec11ec88cfce6236d3580284423c5ff389e9b29a36001edd00642fdd72ef"
+hash = "4e1dca6954160a06fd95b731aa257c162499a3eb425da16c0ce6ecad8cc6a100"
 metafile = true
 
 [[files]]
