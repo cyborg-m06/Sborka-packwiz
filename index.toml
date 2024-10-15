@@ -57,6 +57,10 @@ file = "config/paxi/resourcepacks/VanillaTweaks_r182474_MC1.20.x.zip"
 hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
 
 [[files]]
+file = "config/steves_realistic_sleep.json"
+hash = "c622442a076aaeff365e8017cf0e589a9214b601b30a53205b978dd6d402a0d7"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
 hash = "85cc06508645172c4aa9c18691235209bcd1c8eb892ad418e6bdfd4654eee818"
 
@@ -340,11 +344,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
-metafile = true
-
-[[files]]
-file = "mods/delightful-creators-fabric.pw.toml"
-hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
 metafile = true
 
 [[files]]
