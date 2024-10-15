@@ -3,7 +3,7 @@
   "config_version": 3,
   "protection": {
     "non_owner_protection_time": 1800,
-    "self_destruction_time": 7200,
+    "self_destruction_time": 3600,
     "drop_items_on_expiration": true,
     "attackers_bypass_protection": false,
     "use_real_time": false
@@ -50,18 +50,19 @@
   },
   "teleportation": {
     "cost": {
-      "type": "level",
-	  "count": 20
-	  }
+		"type": "level",
+		"input": {/* ITEMSTACK */},
+		"count": 20
+	},
     "required_time": 5,
     "y_offset": 1.0,
     "invincibility_time": 5,
     "allow_movement_while_waiting": false,
     "text": {
-      "timer": "<lang:'text.graves.teleport.teleport_timer':'${time}'>",
-      "timer_allow_moving": "<lang:'text.graves.teleport.teleport_timer_moving':'${time}'>",
-      "location": "<lang:'text.graves.teleport.teleport_location':'${position}'>",
-      "canceled": "<red><lang:'text.graves.teleport.teleport_cancelled'>"
+		"timer": "<lang:'text.graves.teleport.teleport_timer':'${time}'>",
+		"timer_allow_moving": "<lang:'text.graves.teleport.teleport_timer_moving':'${time}'>",
+		"location": "<lang:'text.graves.teleport.teleport_location':'${position}'>",
+		"canceled": "<red><lang:'text.graves.teleport.teleport_cancelled'>"
     }
   },
   "model": {
