@@ -216,5 +216,7 @@ ServerEvents.recipes(event => {
 	
 	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 	
+	event.remove({ output: 'origins:orb_of_origin' });
+	
 	console.log('Custom recipes added');
 })
