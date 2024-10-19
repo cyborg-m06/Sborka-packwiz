@@ -109,8 +109,8 @@ file = "config/paxi/resourcepacks/Create Computers Fabric Resource Pack 1.2.1 - 
 hash = "18fe3c38862df9fba634c87d27caf2c859f0f4be8e5243b0581d21a13ec65d6e"
 
 [[files]]
-file = "config/paxi/resourcepacks/VanillaTweaks_r658800_MC1.20.x.zip"
-hash = "0c4385c95d5d6079ff2946ab8ffad56f65ff0456fcf4b7a82725259df95d645d"
+file = "config/paxi/resourcepacks/VanillaTweaks_r849822_MC1.20.x.zip"
+hash = "48ee2f080a41dfd2bd2529ebdd75923f7767df1826f0dc15fd96ad269294cac4"
 
 [[files]]
 file = "config/steves_realistic_sleep.json"
