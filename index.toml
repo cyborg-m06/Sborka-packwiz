@@ -25,6 +25,10 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d85deaeaa203c437cd60d76bbd4f10c6a36377561122f9a6667a82fdeecb7c40"
 
 [[files]]
+file = "config/paxi/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
+hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+
+[[files]]
 file = "config/paxi/datapacks/CustomData/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
 hash = "2349ed6c483d4acbb42ef3fa86b8c8a5b61224bdf2742ad9445bdb004279e969"
 
@@ -57,8 +61,12 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/VanillaTweaks_r182474_MC1.20.x.zip"
-hash = "219f06a7547553c4cc10b9b3a6f9af068efd3b3acf9341533dad5445151d6bd6"
+file = "config/paxi/resourcepacks/Create Computers Fabric Resource Pack 1.2.1 - 1.20.1.zip"
+hash = "18fe3c38862df9fba634c87d27caf2c859f0f4be8e5243b0581d21a13ec65d6e"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r658800_MC1.20.x.zip"
+hash = "0c4385c95d5d6079ff2946ab8ffad56f65ff0456fcf4b7a82725259df95d645d"
 
 [[files]]
 file = "config/steves_realistic_sleep.json"
@@ -98,7 +106,7 @@ hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "b9436526e72d43e7609b052ffd3da94b7cd8c21a2f9c663e8c1583be44f73b79"
+hash = "7b14157de0e15060b478b3d325cf2e69d4f7907e480fc1a0d0bc180e2afad491"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -1086,4 +1094,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d90ecf3f72efb4801c1dd35342e15ea293a41c6bb2e8d80377de0e0ad3cc127f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soft-weather.pw.toml"
+hash = "8313bc03de6b407cb9ddd76d2c1549493a1df96a9ff46900f93b074c8360f273"
 metafile = true

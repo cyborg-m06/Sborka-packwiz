@@ -81,7 +81,7 @@ ServerEvents.recipes(event => {
     'ABA', // arg 2: the shape (array of strings)
     ' A '  
 	], 	{
-		A: 'createaddition:connector',
+		A: 'create:copper_nugget',
 		B: '#minecraft:planks'
 		}
 	);
@@ -90,7 +90,7 @@ ServerEvents.recipes(event => {
     ' C ', 
     'ABA'
 	], 	{
-		A: 'createaddition:connector',
+		A: 'create:copper_nugget',
 		B: '#minecraft:planks',
 		C: 'minecraft:iron_bars'
 		}
@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
     ' C ', 
     'ABA'
 	], 	{
-		A: 'createaddition:connector',
+		A: 'create:copper_nugget',
 		B: '#minecraft:planks',
 		C: 'create:electron_tube'
 		}
@@ -125,15 +125,16 @@ ServerEvents.recipes(event => {
     ' C ', 
     'ABA'
 	], 	{
-		A: 'createaddition:connector',
+		A: 'create:copper_nugget',
 		B: '#minecraft:planks',
 		C: 'minecraft:comparator'
 		}
 	);
 	
 	event.shaped('phonos:ender_music_box', [// arg 1: output
-    ' C ', 
-    'ABA'
+    'C', 
+    'B',
+	'A'
 	], 	{
 		A: 'createaddition:connector',
 		B: 'minecraft:jukebox',
@@ -146,7 +147,7 @@ ServerEvents.recipes(event => {
     'B',
 	'C'
 	], 	{
-		A: 'minecraft:calibrated_sculk_sensor',
+		A: 'minecraft:echo_shard',
 		B: 'minecraft:iron_ingot',
 		C: 'createaddition:connector'
 		}
@@ -183,11 +184,12 @@ ServerEvents.recipes(event => {
     }
 	
 	event.shaped('phonos:headset', [// arg 1: output
-    ' A ', 
+    'ACA', 
     'B B'
 	], 	{
 		A: 'minecraft:iron_ingot',
-		B: 'phonos:loudspeaker',
+		B: 'minecraft:note_block',
+		C: 'minecraft:leather'
 		}
 	);
 	
