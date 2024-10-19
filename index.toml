@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "41ae84877dd3ce346a7d97fc7f493c8e9dcacfa67ce6974ace56baecee9a8411"
 
 [[files]]
 file = "config/aileron.json"
