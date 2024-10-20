@@ -1039,6 +1039,11 @@ hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "4dcfcecd5f3be5cbb1b07a11bf6a264033c1619786491ec2a1ebf1b748324c48"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "405d5102dc84d1e3a041a5c12e7be8ec970b5a5fc89b30503b8c840464015c9d"
 metafile = true
