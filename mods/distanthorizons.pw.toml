@@ -14,5 +14,5 @@ version = "20nF6i21"
 
 [option]
 default = false
-description = "Very high render distances using LODs. Heavy performance impact. Currently incompatible with Iris"
+description = "Very high render distances using LODs. Currently no server-side support, requires manual chunk caching with traveling."
 optional = true

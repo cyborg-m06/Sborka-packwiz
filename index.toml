@@ -38,7 +38,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "3d8fc6be240c04d71cae06d672398005b9da898dc5ff235a3162d472380ceaed"
+hash = "f952a0f080024e0d98e06a1199cb09e7fda8896da55768bf1cb7f454fe7a2c3e"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -388,13 +388,18 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
+metafile = true
+
+[[files]]
 file = "mods/dice-(fabric-port).pw.toml"
 hash = "aff410d1e7b7078cb695cb5678ca71b2c826952fbe40689a3dfbb2c08ee13a21"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "1081081fb955eb88f8ad0123cc6821dfde18f0562674cc311c1944062425fe28"
+hash = "6eb5edfe7da7479c8ff936f73b9f0267d6a495893b15250915c103ca2e2d15ff"
 metafile = true
 
 [[files]]
@@ -587,6 +592,14 @@ hash = "435fde62e92bc035ab2e658fc8c37ccce45ea0499e60647dfde54eeeaa5be463"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-676.jar"
+hash = "254e2d5a732a1a2c9a55531f44b439e1c68961a0b1426d204ae477b806da2d4c"
+
+[[files]]
+file = "mods/hextweaks-5.0.2.jar"
+hash = "780dacdd08aceec8019e4676825d7fd2032983f3ce37256befa898e8bb56cc3e"
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
@@ -628,12 +641,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "19cd0f4454102e6db4f67ebccbb0b4a83b38cc8f2fbfaaedfe2f88a974d17a9e"
+hash = "a6154c0178fb3cd04025a95b733ccdefd72db3db6fff34da1b18db7c5d2495d2"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3b72338a2d9e9a50110e0c159d84a681b8257a60bc72fd5a547c2f0c0f288f35"
+hash = "daeebf203fc5df06db90d64ba3709d89df0bec680b2a587c25c78fa9b40dec9b"
 metafile = true
 
 [[files]]
@@ -748,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e1dca6954160a06fd95b731aa257c162499a3eb425da16c0ce6ecad8cc6a100"
+hash = "a9e6b40125df19743b7038dd671592877a302d3475dcd5837bc1d3f935cfea84"
 metafile = true
 
 [[files]]
@@ -772,6 +785,11 @@ hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
 
 [[files]]
+file = "mods/natures-delight.pw.toml"
+hash = "76e375699b51cdaea57b81e397e958dc61b6428913db731857f024a33915aa50"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "20abedafcf5d92d97c4bcaa7d7ae4ce0769be9eabfa07a481ed2046183fde740"
 metafile = true
@@ -789,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
+metafile = true
+
+[[files]]
+file = "mods/ns-cr-rc.pw.toml"
+hash = "1a6fe5303c71f2c1cd0a412caf918024e5753b9bc31661eaea38b0071f8770fe"
 metafile = true
 
 [[files]]
@@ -825,6 +848,10 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
+
+[[files]]
+file = "mods/paucal-fabric-1.20.1-0.6.0-pre-5.jar"
+hash = "881535a183b3aee13116181271b55b1c4e1bbf74b8eca4aef6b2a6478c4f0cf8"
 
 [[files]]
 file = "mods/paxi.pw.toml"
@@ -891,6 +918,11 @@ hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "7f6fa59b9db6e15b859daf4f7683c89fd0e3b18b341a9f49f719e1f2f93e15b7"
 metafile = true
@@ -943,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/soaring-phantoms.pw.toml"
 hash = "69ce7dee1e33ea4c054225cf07c64e59c3a7106a381195cf7c8ec001034b6bd2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
 metafile = true
 
 [[files]]
@@ -1072,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
+hash = "849941adcef2f21e00df5dc9f7fb70d267c29453922319686522ab485a5d6cc1"
 metafile = true
 
 [[files]]
