@@ -74,7 +74,11 @@ hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
-hash = "2349ed6c483d4acbb42ef3fa86b8c8a5b61224bdf2742ad9445bdb004279e969"
+hash = "accae91be43b96922c6712f23120c9c90830c680fe2773474ef641df72389370"
+
+[[files]]
+file = "config/paxi/datapacks/CustomData/data/betterstrongholds/worldgen/structure_set/stronghold.json"
+hash = "07c861636253fd89650df96844d2813f8e883a83848b651ca1ed800affd416c8"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/pack.mcmeta"
@@ -115,6 +119,10 @@ hash = "85cc06508645172c4aa9c18691235209bcd1c8eb892ad418e6bdfd4654eee818"
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
 hash = "3c7ce9e5cafc8d265c8f53fa684933e3f80e99ec6105d7d8e82c5933de542297"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "2273453fc00d7a4eb4ca4d0b01b9577c50651f8898ffaacd8035594232a43d3b"
 
 [[files]]
 file = "config/universal-graves/config.json"
