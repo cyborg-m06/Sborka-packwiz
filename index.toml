@@ -816,11 +816,6 @@ hash = "d5f2de9994336455098612492f4e0e3042b43864adf0433227327eb02fc841d9"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
-metafile = true
-
-[[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "ddca38b0907f4ce306a04012a8aa131e0e0d1952ea0e0074ac363e70b36e07ce"
 metafile = true
