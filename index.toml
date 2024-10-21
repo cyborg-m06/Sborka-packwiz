@@ -85,20 +85,12 @@ file = "config/paxi/datapacks/VanillaTweaks_c617228_MC1.20-1.20.6.zip"
 hash = "e0e5eb203dda57bfa3bec9ed6ba71c0c7695548d993be68ef6da19aa26f133ca"
 
 [[files]]
-file = "config/paxi/datapacks/catenary-v0.1.3-datapack.zip"
-hash = "abec7c58cdfb7061eb4595578af0b54f82d217019811b7ce9d80dc2cb953fe40"
-
-[[files]]
 file = "config/paxi/datapacks/cauldron concrete v3.0.1 (MC 1.21-1.21.1).zip"
 hash = "15bc47ed9716b90c0bf7cf568307c1e58d246ab3e4f38e1a994180ac5f048d9a"
 
 [[files]]
 file = "config/paxi/datapacks/cauldron mud v1.0.1 (MC 1.21-1.21.1).zip"
 hash = "fdabcae0d5736b6a72be57c0c8901250e033bb761b47b7b669e89feb5295b9cd"
-
-[[files]]
-file = "config/paxi/datapacks/eroxified-v1.1.3-datapack.zip"
-hash = "f2637c3be0ed1b3db686de40735aa155bb72230b186b48655376e0e57b4b44b6"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -295,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "403857ece6f2028106fce64a417658796e6088165257ad38f79d1aa43c52f06c"
 metafile = true
 
 [[files]]
@@ -773,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
-metafile = true
-
-[[files]]
-file = "mods/natures-delight.pw.toml"
-hash = "76e375699b51cdaea57b81e397e958dc61b6428913db731857f024a33915aa50"
 metafile = true
 
 [[files]]
