@@ -78,7 +78,7 @@ hash = "accae91be43b96922c6712f23120c9c90830c680fe2773474ef641df72389370"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/data/betterstrongholds/worldgen/structure_set/stronghold.json"
-hash = "1ba85606617d15775a3db6e7fd546dce8cd78efece7057b32b69eb7fa1711b41"
+hash = "b974b75d8aeacc0cb35b673576c443d1aa7c38c5c18f69eb6d707ef82e980126"
 
 [[files]]
 file = "config/paxi/datapacks/CustomData/pack.mcmeta"
