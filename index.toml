@@ -105,6 +105,1322 @@ file = "config/paxi/resourcepacks/Create Computers Fabric Resource Pack 1.2.1 - 
 hash = "18fe3c38862df9fba634c87d27caf2c859f0f4be8e5243b0581d21a13ec65d6e"
 
 [[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_amethyst.json"
+hash = "19e53d4a2fed538f42db44809c5f93efa92a783b74b340a2e6e2aa21b97a6074"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_0.json"
+hash = "2c7ae33c495381ddeff3b5be21cb55b27a272554ca432e917d8d70f48ac405c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_1.json"
+hash = "420710dda87a51fc54f2c2d23623a5458b02bc6713a43c3e3b0573202f9af8fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_2.json"
+hash = "0017a10ef3c1173abddd0b8c6ac3286bf5662c4aee2e69d05c4e34f48f9986aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_3.json"
+hash = "43328c7409900e274598dd31dc09ec2c4d45df27db8cf934e75a6ad42524bedf"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_4.json"
+hash = "3e375cefd5d0dacca95eb32d8642a8c4ee1274a95172d74fdefd343232e860e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_5.json"
+hash = "20acfe6419e726b18caabee707210b636c54dab4573f60fb25c7f09e3ca39a38"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_torch.json"
+hash = "bb6a2c8e3c603be71289e41ea9d14458814fbb9ff571d0aad60a07ad994c8b6e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_amethyst.png"
+hash = "9afd0cc9cee100d1400be4b83a630310de0671d596b5ff2b490e210ec37e7e23"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_copper.png"
+hash = "5ecde93c4430c5c490d3a2c19491b0b2dd553d77f7132d06b943e548a4a64824"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_diamond.png"
+hash = "3d77ddfbd593dc7dc0bb651ba06c78a418c4c034e3d8fbdc962b188c80297256"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_emerald.png"
+hash = "4bb3439842b954dcfb9a2be4b31e59f131f90b0133f86cee2dc5a6065236c88f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_gold.png"
+hash = "f640610e96ac65dc6a2cb73d18cc46384622deee9b5fc9184c3df97613438591"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_iron.png"
+hash = "b982dd350fa234ffedf85dd3dcf8751d4fd24917fb05efa55d88da39e6f7fa20"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_lapis.png"
+hash = "45854e76c888b2929637e2a4a6790da2a75e27397428e9aa4a2505c6c26f8b0c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_netherite.png"
+hash = "920f6aa0b63562dc2857c32b89e6d58b500797579402da8c5c3b0cac5e7647c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_quartz.png"
+hash = "e32770ae7fd7af764611442195c179cc86db54fe532aa385404c432e74ef7b7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_charge_redstone.png"
+hash = "e835a2a3d1e7b48358830ea0ff20422c2783f013a1817daf83faf19b7e43d1c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_amethyst.png"
+hash = "40c9b300ee1773ee0913e34ca118369c99f791f584e899ee7c7f2d306b18237d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_copper.png"
+hash = "bb3c61396e294a087c94269c1d407cdc92af82bfa7b2b70798d757f3400f2eba"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_diamond.png"
+hash = "448c29e891d8e53da2a6edd3243f30e07d2e19b65e403ec605864e8ec9575806"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_emerald.png"
+hash = "1a894233f7e922840c70e0b2ce0bff405cd32cb9bcadcadc3b74d844088ebb0e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_gold.png"
+hash = "31dc72f4df77963999c747f8661140e14cbb2aae21b676492dc16b45ce949dd5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_iron.png"
+hash = "234a73fba3549378146ca1ca868f1952cf26558fc423254373b5313cdd002a37"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_lapis.png"
+hash = "ecb562478234579b6cd5e6189017609349e4546222976087206717e48a620a0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_netherite.png"
+hash = "b173521eddc61c3d613aff9846b5dfed910c902c0a5d9c658edd8f1625e718f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_quartz.png"
+hash = "6dc8d820b648cc2881f651e4d260c68bd73d30752f0a3084e5ceb5a8b2e7f4cc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_frost_redstone.png"
+hash = "4e4ca5b6527c1dbcd4a1788aadf28e56433ffe6962a00e767788bb9453e2ec61"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_amethyst.png"
+hash = "499033c3945404cddb61115a76030856865028bd1fddaa96199dcc5194f69d1d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_copper.png"
+hash = "01ebecbb3325b460c652f01d854e543afe7e48cf6809c7bc58d6b48f2da05b3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_diamond.png"
+hash = "cbffd9dc197203292efc25fdaf59197fdeafad54613e7f51130a2dec580f87e9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_emerald.png"
+hash = "dc67962cd153d1aa79ec5e0e14f55c868f55609f719f8913cf9936861e46a59b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_gold.png"
+hash = "8342e5c2d0a6f40ed8347f603d1c9f11ca3b7a8f5fb8144ac3e39c09b72a713a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_iron.png"
+hash = "5d21787f6434e4efd4a99eb71f61487b18a0a02e51385b54eabcd68cd5503eef"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_lapis.png"
+hash = "b56415419debab3d6c41faa2e8c653dd85640a79444b597613f002f0247665c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_netherite.png"
+hash = "4e080599c5aa046c8025f920e766d46359e060a289d278173691d333c15af8c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_quartz.png"
+hash = "b62707b32a4986fa910c3325bd9bfa8db95e331bebb4fa45955a56060bc05f29"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_linear_redstone.png"
+hash = "ffb261c10ca8bc7bb2fe95f2048e2587c5d531cd95fa0e935860183583aec2ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_amethyst.png"
+hash = "e9efec35b624f5ee403d8d2f71342d71b84f15aa13a62075d783dffa72e128f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_copper.png"
+hash = "9468fc845944f6bc8cb02a739223d85eb043e00fba938a94e7b746ddd203b9be"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_diamond.png"
+hash = "ca16fe4e386a36e8e041a322dc1dc9e355672c68c79fb2edb2200532e2100f7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_emerald.png"
+hash = "79242103749d857f989c0940510cce272393a4151635a898f256a2fb58cd52b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_gold.png"
+hash = "80f56e037d8c6bbeee1e83f884aa2bf7cb489ced819b59dff09134d17821a737"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_iron.png"
+hash = "c2102fefecc4ccfb9bbb55073e79191031be866bf4868b0f1d193c999abfd897"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_lapis.png"
+hash = "e11342b774db8fdeeca5e99201f3f8f957c5ee94431fb9f0bce81e831d6b00a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_netherite.png"
+hash = "f5c602fbf13979bba8b97cc6c00454cd54b503c2256d73c9ac7dcfab26277f9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_quartz.png"
+hash = "85a74ae34d1ed1fcc405390b2d2f8e604be8826d50b34300c7a8d96d647e461f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/amethyst/crossbow_amethyst_tracks_redstone.png"
+hash = "651575c7349fe0480b5dc89a3376b6194b697f28068df07f7cba87969e1dc768"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_amethyst.png"
+hash = "376b68804cec539d9934ff54ac20329205edb6190e758d6e2802e4139f1d7f77"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_copper.png"
+hash = "9ecdf47fadb4a1b7f7ef9f50eee8c9045deb8cf7071bef1ea2b07236fa31abad"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_diamond.png"
+hash = "e1a2863cfb6c73efb018d2ca56dd18db71d2172e3652f3765976b6be47996138"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_emerald.png"
+hash = "f6cbcb366fe9536816e8a4d2e8d57cbb405af8f1b067581ada697e5af6b84e9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_gold.png"
+hash = "c866317775746c9402082ab3b4e712d9e1bb5ecdf06fff6069932a4b509d78bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_iron.png"
+hash = "a40b25249973a5d87b5edb900e1f02a81b40fbfce0656a9923ee646e345f5d42"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_lapis.png"
+hash = "48bb098084963cc166ddfb3e4b54d84e2a0150b0728f444c93b7a1c65ecd6001"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_netherite.png"
+hash = "a58545ddb0910f21ffefdaa45300ab295a3da34ae9c35dab005977b33e719be2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_quartz.png"
+hash = "f79330ff6f414f1754e30d1927731cfc7f8522727b94343254fa76f9d1cc1a4e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_charge_redstone.png"
+hash = "e64e534882dc82937345025431935bf1bbe1dcd0a3ebcd2dfe581615973428c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_amethyst.png"
+hash = "f7ed7136531799325fa21e916d8fbb987917ef7109fb6a086d24606c2ec4addc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_copper.png"
+hash = "7fc7e4201c1a39eb4df987df977b5a37fbf99bb354b6938497d4b4cde314453b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_diamond.png"
+hash = "d7c921fb8b816bbdfb9b9b6e7e90242f6b916eaef9ec59e7c1af3775f2481570"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_emerald.png"
+hash = "fc208c795f1df369b8cd0638c900724891358fe693ded67a8dc472710fd8b2a3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_gold.png"
+hash = "be514352f20bdcc2e9d42e1dee21cada654895a3028a0ad07ab987254c4656bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_iron.png"
+hash = "1707cd10879ade5bed0b8ff5d937c982ed7ff7811d9ecb00515748eff0f9dd28"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_lapis.png"
+hash = "8e495654ec7f6736b7374a79a3f2d874e899c0e31a046a0c88efadbd6fccf5c5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_netherite.png"
+hash = "b368ba97774b58bb555306b5742fc6bf00f67686b4c2c885dc7dca461afb473c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_quartz.png"
+hash = "72ea7dcd4bf39adfc355356e8b74a2e75a00e7d32b6bf2a3b9d09fe91ae5416f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_frost_redstone.png"
+hash = "2bd4a895abd8bcc16e353b26e9686eb9153033aa82f2bd3077f0871258aaaf77"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_amethyst.png"
+hash = "be28fe65466bddb0ed0fadc313ac790eb5cdd9d6e3909461e241a3b71e91820e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_copper.png"
+hash = "5879ccf04cbabd7dec92c331804d97a52ea19a0b4a7ed1ba73e9946e200d1bbb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_diamond.png"
+hash = "952ea6b5369945555281d1d0de845b28db23c3c25f3a9913b3abcb8a4a3fd82c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_emerald.png"
+hash = "59c39abaddea256ac1c726f303691a929adde4c1b9519104126c08ace32db207"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_gold.png"
+hash = "3f6ae2709e157850fc20582ba306d2a67d5fbd189d41a7a7b8b10bf4d094e3f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_iron.png"
+hash = "a11e9f01a0ee61da85f2c8e9f3a0b3235b781251b8476afc4b15ea59caebe80d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_lapis.png"
+hash = "92b3d279e5ee26a0fef2412fc02a4daa5e2d7bc2369787e52d6ca0bf4d39afbb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_netherite.png"
+hash = "20b5a1dbe13d8da9a5861e955b63c5e4f67e51905cdf0bc5b8ff379dbf14b8fa"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_quartz.png"
+hash = "8eea0218d5b29b45f524aab06b74f7fb007d14ad9556d89be64364a411872a32"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_linear_redstone.png"
+hash = "15bf102736b58af9787aae1c467883ff74d1b135abcf06fb3f7b30951fa7ae7c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_amethyst.png"
+hash = "4318e3ab1287059fa5d464ac09a0dbfd09ddcf0de88ebb63ae8013492c81e63f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_copper.png"
+hash = "e5fcd7911c472dcae000dd93b432d90f5fae9ca1fe878ebf51b296ab58c6e011"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_diamond.png"
+hash = "47a8c58a756ac6377ed6e9d303f8b1e072e12f32c84464954eeae1005d171504"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_emerald.png"
+hash = "ce22f6036c97179292d8b2a00897c540ac7bd91521d134c2fc10f587b596fee5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_gold.png"
+hash = "67d01808c6544423834bf7201a1692cd39b14bf8520c491e3fa6243e6c0e244b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_iron.png"
+hash = "d5badd7277b05e4aacbe568d82493e8bc7beb7683ecb691e32626ffbfdb44f3c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_lapis.png"
+hash = "dbc1adf1ba94882c66bad776781e6c35f08fa707b0c337e96564f6ac7d256274"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_netherite.png"
+hash = "c7ff7530374adb0400447df14d113e088823bc33571c00eeb3a223b64a8337aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_quartz.png"
+hash = "32d16b9703a55e37264c6582bf768cbd77c53e1fa3c0dfa2f9d57d40ddc7f545"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_0/crossbow_brimstone_0_tracks_redstone.png"
+hash = "6c60debbe7cf3f13a9b89e733230778a4ae0b41a82bea43395b54285ba2fe4d9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_amethyst.png"
+hash = "c64bc7889c4f1b0741863ac0be06c7d067010f1999d528887d3ded0c29d812ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_copper.png"
+hash = "910f21a8ff90490112f7cf51e277893ebd23219759d66470941fa2ec5a90e688"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_diamond.png"
+hash = "021ad61603ce98dc8e6120cdfcd8def93b71b393461bd1e7fbb6f5114511eeb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_emerald.png"
+hash = "910a3f8a63360a68943d5881d39b1374637d9830bdbda3d2a5469d914c98179e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_gold.png"
+hash = "27c6404c0a3ebccdd804b169feae1d2b9f491596ac8f49ec7252261c3da2d42e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_iron.png"
+hash = "2348548e48450aa5f97467a404b4bf538b70740a73f28dc14d94e81d72d7a113"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_lapis.png"
+hash = "1c4cba1029da0548f15e4cc1d4e4edb20ef9aa216193df95d6adccecf3fe5856"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_netherite.png"
+hash = "6807d1312fa71157b9679beb9876ac8e0582cbda65439d644c686ece4d66ce2e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_quartz.png"
+hash = "c970d3cc5909c251daadf0ffce31982bb957489a868342d7136432e84603850f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_charge_redstone.png"
+hash = "faef49b192678174e7ddd85e0f7e65ceac8e268c2fa1ce01ff244698b17f3527"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_amethyst.png"
+hash = "a09f4cf60656f52cfdc84e37d03c3077fa0cc447532ee61632d9ff148cd7eef0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_copper.png"
+hash = "eceab994aa70835c671b17a7b243e71dd0059139a259959dd2f87f6381e78b5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_diamond.png"
+hash = "be045d2378de5c71cbf83ec3b851cfe892a6cca6420e44b7ade1bf8c0ad83f9a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_emerald.png"
+hash = "887c6d9c1d97cb6da19d70dcf12f90b8bbde3ec28b226622252443addd871154"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_gold.png"
+hash = "2c952a9bf087a503ce12e251870d04509424530288fa2c12ecd6e4a3bfe804be"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_iron.png"
+hash = "fde4fd9de1dbaeb6dc5d716e27c712a14697703ae677954c93577a50d7541686"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_lapis.png"
+hash = "d11767a3a5157ee870f58894290a1f5e535dd2e7d32c226c272c3ba6db118cd9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_netherite.png"
+hash = "082b70b73d4468650e47d91ecdf54fa37f1a8abf486bdf4b813664e521ad2096"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_quartz.png"
+hash = "8dacfb25aa3b4acced69a0aa8224ed2fbd74c00e715c226761da5d7c0718df05"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_frost_redstone.png"
+hash = "d88092ef2a48eeebcb30c7b619fdd7c0098d53063772568739b74cae2b842c3a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_amethyst.png"
+hash = "3a1d6c26a507804f49bcb38e8f1366c5e015da6ab6ba1751e25f5fba1669dfd0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_copper.png"
+hash = "d758accd98f5f1b3bf087b53f25160d9510fd5c4dbbf05263b1414e47d4936d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_diamond.png"
+hash = "6d2f649c345401ff00034f0a80b5e3186072a6e60098fc12145a36e201df2232"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_emerald.png"
+hash = "537f4e4bae730db2209cbfbd880a006e5aef3d8c7a7228cb49433ade9ac1a7c5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_gold.png"
+hash = "ea0f27c9084180b1bc3fdb5cac194bb996a2822f1e968a5c962715082455badd"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_iron.png"
+hash = "ebf8bfe7f794ce2c0d03ecc5c3a0576e57189546cc35adfda887d47e415daa67"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_lapis.png"
+hash = "dc50271edf67e4965daf9fe99e442c01d249fe40dbc365141abb2e440d411cdb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_netherite.png"
+hash = "801f88bec27e03a4ac882fdfabc8ac6dc1ca4e91d690b7d43eaed4b504715bb3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_quartz.png"
+hash = "83c2e8a97e0ad565eb45dff763b2a2aed49f433eda3117495fd95a44e04d1aac"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_linear_redstone.png"
+hash = "f04ee54ba0e64977d3194684284c8ed93556b82b3b46edf83c43d292f7e35542"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_amethyst.png"
+hash = "af151de388d77f47500ace7d09dfff03930dc6e44c94eb55711d7adea8171534"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_copper.png"
+hash = "d09ce3c974d92de1705f59f71cc7fa0baa8135fecc0e3fc392a2c24418cd02db"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_diamond.png"
+hash = "46e071cf0ecf2aaf6aa53e94d021fae31c706e569b43ad30368a1466009a3485"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_emerald.png"
+hash = "326b19f8018b29ab0580c83d2fce6a3ae63234f33a101605e8b54f2a246975b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_gold.png"
+hash = "77880ee2ff2f22d7ee56bd6e073689f20f6233bf130ce54bc301a4df6ae38d26"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_iron.png"
+hash = "822e1e22acceeb7deb36ffed334289965b439ee9aac2103c95ba7fbf54aafd9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_lapis.png"
+hash = "0621141c22f414185f2c68c4b1a3f45a33b6f3e088b3da11744c19a25c4aec0e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_netherite.png"
+hash = "3a8a984436b4f9eac5592d29cd4e15d54e513ed55946ee1a38148e1286494452"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_quartz.png"
+hash = "cfd02502f9074309a5cc0789e61b44089c7e6558902d7955624af8d2867097b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_1/crossbow_brimstone_1_tracks_redstone.png"
+hash = "fdac19dae7e61f04295684263e95d66a81a376daad8118918618082f19f837fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_amethyst.png"
+hash = "8d45277c14a8ab49f8a961924dd036cfb49601c671ad1ec6d72f3617ef62ba55"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_copper.png"
+hash = "c1748c0c52953ab25af10ba7ecc8be3ff6150961cf38676b7e32d67f0a0c036b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_diamond.png"
+hash = "6df6cd7c1933f43902fa60de27160c4972d8b7f2b6458fe1202620e03035a954"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_emerald.png"
+hash = "b40c7d160837ccacc397fc45921c4f13d05b8a84d58b2c314cba122ed14c4501"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_gold.png"
+hash = "68cfb702bef4e8ec277285e54b13349aeaf7c62d5109812f162957032b9874d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_iron.png"
+hash = "9ae83a9d5138e96185726547979cd2a0dfd3c5730e5249ff13a21bdb7334e3c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_lapis.png"
+hash = "9b7fb0f2bb06d239e4417e74e8f6988cced04125b6703d9a489d95ae2ff55b0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_netherite.png"
+hash = "f7739b099487008414f13438cfa4b01789980559210c5871393a45be092338ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_quartz.png"
+hash = "c7435fb65fdcba8dfb4038cf837946d5b83307d814335293b95c3239dc672b51"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_charge_redstone.png"
+hash = "5a156a1ef5bccacfb35ba90ef500c1bf7ca896bcab7c51d22b5dce231fe8832b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_amethyst.png"
+hash = "8bd04bff258f95d0d31145eb8a1afcb9fc0325852e9a61c6bf3c0cc94451a239"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_copper.png"
+hash = "a6af4103da338c2acd3cb5f800cfd98b71e7e58fc23046d6a56ee941b9868b5c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_diamond.png"
+hash = "4e0de1cc00640c90bf57ec0aad27789aabad328056e02150fa2cb2b816023bfe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_emerald.png"
+hash = "5f05b1c0dc859522142940ca30524518e6aafda382562b1f79a872bf545caffd"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_gold.png"
+hash = "19d4f6f5837dedcb5ec1ae807e98c539abc6e9a3ea940595acf7c6a47999c01d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_iron.png"
+hash = "bf65916f54cdbd6bd46909b7a0d4f0ea441f6a203ffb4377ddf2a47f2e6891e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_lapis.png"
+hash = "2514b11033b0499231fb1aa66148b5fcc0909f69ae8e76df3181965551e753fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_netherite.png"
+hash = "7a6a70053b9ee2a5bdcb02b010ca7ccfee8be87e1c425fa07cb941f1b1fed405"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_quartz.png"
+hash = "55338ed366715b8e6b9fe3f03f7f686eaef5e1dbd9176f5635e88f8fd38fba0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_frost_redstone.png"
+hash = "89c74c4366052a4f66c44dec13c2220f3ceeba6fe8f6ba4e11980e3b2de8910e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_amethyst.png"
+hash = "b66afcd59663f04c0751318ba0649efd48b08f0ff6a657bd75609f05b1225918"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_copper.png"
+hash = "fe983e9be35cb71d08a853261b0cddbf5ac0b0460db1a72a9eeea458633affb2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_diamond.png"
+hash = "232920c29c38af616e3bb00223b658cdc827994a3dc6e6042112b56a49654951"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_emerald.png"
+hash = "b1a3714ab204ef9f78b72917e040beea969712af815738daa9c729f811693928"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_gold.png"
+hash = "0292aff8078db8e80c695f589b17d0902becd86bbdb620731240cd624a01c50d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_iron.png"
+hash = "61ce02a168bddc766e59f6af704120ea037f815bd9c623a821e270de71542220"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_lapis.png"
+hash = "38840f6f6d75b374591a613ae505a202d8f27d057be015145431e7dcd22f672b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_netherite.png"
+hash = "bcdc0bf501737c1505b38a358c3f5a61b03074b953eeb2f3370a3d3ad35dc32a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_quartz.png"
+hash = "a3b736a94f41e74ca409a869372de02aa36cb721952b772ce8be91e5f43f139f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_linear_redstone.png"
+hash = "93c63b911c6150ccf45032a22def1275208f92e40908c0c383d164df77973fd3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_amethyst.png"
+hash = "b5f78e54db55ae605e345436bc4a354d19b57844933705f95339ae7ef5305d7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_copper.png"
+hash = "af60c4cd2024968920d601b1f7c816f13c30b9db71ccf98d4775979b64a2de77"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_diamond.png"
+hash = "c78c6f7dd38da4e18ba97cd38baecbcadc730106dbca2add111cfa3aae25415e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_emerald.png"
+hash = "fd61c3800842264abaff2d903e7f3c5e8f800a6e980e48c0ab77d05ec3f13eb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_gold.png"
+hash = "a9fb5e256da40ba617a3a6b673e4c8e92be9c6a7fb4de608d7eda92892f4a8d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_iron.png"
+hash = "2ec87b1e3f6d57adbf7f9980b3f0dc1587c00fd018fafeea51d50cff6ecc2031"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_lapis.png"
+hash = "51be398e1fd3c748edca78756e27b50e47c8b9573f26aac3c6ccabf4d2356e94"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_netherite.png"
+hash = "5c0f020752989c7e06207e553d7d7a1c650081f086f6674864cae74dd9133585"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_quartz.png"
+hash = "845c12b8191cd2f78ced7af8bd4ce284cd1678bf2b78756625f69148f66db9d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_2/crossbow_brimstone_2_tracks_redstone.png"
+hash = "8d5c9b414be08f47ecaeef04a925b3e89e55899cf8defe3e3b1a37a46a2befce"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_amethyst.png"
+hash = "9d3a688c8d03ac3ccd7786df16760ce519ae4339bdbae762d452c308d051f899"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_copper.png"
+hash = "d8cd91e1b5b0106f1bd3c20a3edf2ca82fb12dd245512110b74442593bc2fdb5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_diamond.png"
+hash = "4a51ed4c1bd94f72e9d83a5246c0301cc6fde1af505a0d467931c490109db43c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_emerald.png"
+hash = "e54c9a11d45923aaeccb7c1c86dfe8407d839a1d4d04b560b94ef3425c4201b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_gold.png"
+hash = "98b353ca30269e4d4ceac1f5a01c9fe28e12798816108d97256620fcdee7c3ae"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_iron.png"
+hash = "1e3c7fed436035752577b619b4a628d5e4ec0505bca1c6b302a31f93d32f7145"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_lapis.png"
+hash = "f77cac8aaace3aa49690d5e70978cdc5b93f6b23f53cb53dc776b831e9479a80"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_netherite.png"
+hash = "0916dc7f6b7b5b2a7ff5d5db50ede9a425e09ea0e96a6fe6794b87cfb7a05c9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_quartz.png"
+hash = "69a4d79a4c0bfed242bf236596f56aca88bb9d42cefcb2ea5d4470f30bc284ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_charge_redstone.png"
+hash = "a3adf77288543de3c89006ec2dc2d54ed3f368cd57ca0cc40fc2a4d65e65d017"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_amethyst.png"
+hash = "53eaa91556154a57e284f5580a2a2184a1ccf0a20c15c2f2a1a9e9835029792f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_copper.png"
+hash = "ac3b01fa77569cee5bb662f7886bfef10f8be6989b603b24d300ad22a01f860c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_diamond.png"
+hash = "63e4b09357bb49e813bf296a2f0592acfed46db5dac78de4d26256c00975c01f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_emerald.png"
+hash = "ea251e061bd551bff9f73227919e5f10ce9a6879b336774dd2b90b670c0270ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_gold.png"
+hash = "3af1b36bf1675db468fc3efc9dac93a85dba62cd36bc1d071c0a8be0bb43fadc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_iron.png"
+hash = "21a1fb07c8a03dc3861feb48f202b1c9b5dd868d35eafb9ca8f45288746c6a1e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_lapis.png"
+hash = "55a62acd6c30675ee8e32be80720ef48da2c5c6155d19bf0b7703d8ea5e17f14"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_netherite.png"
+hash = "f022fcc94fa8aec8d593153fa4b9cbabb8215ba09ce85cd441739e700a691414"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_quartz.png"
+hash = "46a77e03c259fc7358654a010cf198368a02888421aa526547ec1f29d53b1329"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_frost_redstone.png"
+hash = "b166d81e83d9b242353a4618db960e81beed59df91d346c5ea618cfcc1781a68"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_amethyst.png"
+hash = "0119baefbfec5656eb593e1ecd495fabf1a46a79c5a45a80a61022c110b22ceb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_copper.png"
+hash = "e9be4772814cdc30fba01b0a4b32f51af7948ecbb484103a01d5515c189d70ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_diamond.png"
+hash = "a501ef5002e502e581d62807847dc88c28ae58fa80e94c386b9a84729109b533"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_emerald.png"
+hash = "0c1cf959d3022d712278169e431ed340aa63489fa679f0d1e5d051decb61733f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_gold.png"
+hash = "fc34a1066b36b527f9d959b3cb777f9e2aa1d10a47d25ae54ca0a284dd82deca"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_iron.png"
+hash = "efedc575d88237b0a6dbd5f82eb023b071557e94fe80479e1633da33c83c581e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_lapis.png"
+hash = "0866d9630c2bc0b3f4383b9dc906e61e3284d33e604c64228b9b510719b730a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_netherite.png"
+hash = "a3468a2464a985cebbe3889f5417c697d26588f53c1800f5f930421bd4c9b06a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_quartz.png"
+hash = "e89d0a02e71f949c03f984db158e670eb3d82f75b31bafc4551fb9e3ccceea14"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_linear_redstone.png"
+hash = "269df827dabf02c16b8c6c2e9167b41de11d24a23e310c2f6220c37545ae133b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_amethyst.png"
+hash = "fae460330d39540b4ca4e1c73b94d6e8560d2c161183c7595e7c6a077ad55a77"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_copper.png"
+hash = "1f7f66485ec3b898077c8289fda5a6f42bb760e4b32265fa7d29b0012a4e270a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_diamond.png"
+hash = "1cbad33d9e6d64626ab1a9c2ac136d258df027bc4b32aa6c12b8b2b99d994a83"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_emerald.png"
+hash = "f8a66255be0afdbec81bb84be607fb89481b5b076beda0686ad6ff69c95350f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_gold.png"
+hash = "19db894824cdfe5248598f74b688c0390a9436b01aa3198c49a54ca7a01b6628"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_iron.png"
+hash = "bcf895fe4b18698067d00cfe0fcaff3c23819f686b3a218a9d46ed4e67703a9f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_lapis.png"
+hash = "cb3c8e0b22bfc249e1be64893997a36e5f2ddd4177bb21de6eb9c2c63742ef4a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_netherite.png"
+hash = "bc93279f07bad44356a54e4f3182cd16b91019ee291e56629d8c89ef3d539525"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_quartz.png"
+hash = "095c26adaa9b9fb19fd9ea06154734bf383f6dd6d82c7d2f8cf2d282598c855f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_3/crossbow_brimstone_3_tracks_redstone.png"
+hash = "6c01721a9e663100048028a2ffb1ba9c4ba220b638762279af2787ea1367abbe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_amethyst.png"
+hash = "0f64fb4d3a185f1408992d28b79661b08b6d037f6e8f66ca3deffceda8bcb562"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_copper.png"
+hash = "b2dce5b58a58e36a46be41769937c91803276c765cd4dd4b4a633960a4abc1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_diamond.png"
+hash = "edb267e04da8421e36a55ffb853f8f60b3c0620c0e3e8d6cdc58353fa5a8361f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_emerald.png"
+hash = "2ffd63634dc82e08e293d61bd2c638b7f55b0cc3169a780417aaa953c554c6ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_gold.png"
+hash = "038dfdb353152948a5981b3f092af5c395a0504343e2ecdcd9eb5dbee7a7faeb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_iron.png"
+hash = "e9be16e61b76b891c8fc8e36b9e0e6905731ea03785d163819819b6ccb9d56e0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_lapis.png"
+hash = "dd78c9ba2c03d75eb35c195a2a29b40bbe23d2c1247fc172137512df4fce108b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_netherite.png"
+hash = "0093e205ff8bfd80e42b1b82b64b50ff092fc0ebf5588b364e019b37773bca01"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_quartz.png"
+hash = "9f7b99ff0603733a35e9c13a075776c88254e8aa16faea63ac138a471be3a8da"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_charge_redstone.png"
+hash = "59d37641ca4ba27ec6402cef5e1d6fdaa5e600795113cc0b62393a71cc53948e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_amethyst.png"
+hash = "063f02c403421da208c03c3a791f7cb10c90b676aca38e862729e323f8cb005d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_copper.png"
+hash = "19b79fa217d131a4fa23858e144566db2b1004add3df360c4af152654405d38e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_diamond.png"
+hash = "bad28ce53615eb7d8aaa26e39cb8f2af86902df73d28f3d7c67cf8eb1f8da11b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_emerald.png"
+hash = "c2b9166d45d889f7020671caba8cd1f1f8537f6a55930efdf72e243479bca6ae"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_gold.png"
+hash = "cffce2f6d6ff298f90b39b326682a29e8069693732a85d56be3e14105e48ff3e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_iron.png"
+hash = "a71f83cbd9f19e0d7db4f7ecb62625b00116d95e6584b591c7e9103b0daf6ae1"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_lapis.png"
+hash = "d0c7a621d5eacafc2041352325c7129b6a2e5daf1a3122c3cedb19a219f603a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_netherite.png"
+hash = "ebadcee07b6987efd576d76c0af0aab7c4b2413790534643bd936e8c208f0844"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_quartz.png"
+hash = "ac03f4e3c792553fcd83b87518e34215a8ef3de7282e896a641b15361a022679"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_frost_redstone.png"
+hash = "36e03969723c1520787a22fed991398ca16ab82fd1af7abb0ca5a62357947ae9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_amethyst.png"
+hash = "5f3d2496581449a34db4a54ed9b08adf4a50fcc5fa2236767b7676512786fc9b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_copper.png"
+hash = "762e92f1344d3530b8d351c74f8ffb0d16103b46e7a8c854fd39989ecc55c894"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_diamond.png"
+hash = "0367ce05f15c7cc73f44d0f024964e223b996c2b38b101c193ee8eece80d9581"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_emerald.png"
+hash = "ac3c7bf7950cf1fec344fe56fe6bdde6636a9c1762119452a2db447bc058eb28"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_gold.png"
+hash = "4166513bc6a4f98a412314f8ae06db162f1b932319b6a002e1b36042789cd16d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_iron.png"
+hash = "0ab3553f2201e591f7902091dff8f416bb5b42be53a2bf227da1d65c6e147014"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_lapis.png"
+hash = "e087d96bf8c82988f4ed0e709f6a0d195dc9c2cce368fdee308283f13c1c759d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_netherite.png"
+hash = "832f7e929b835521df4342c5a8360e00290edbf3e948a272b52944435f0c3aef"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_quartz.png"
+hash = "4183205bdba09e86ac7b284760098f9a67ea2ea32e1bc5c56fd6514202649ab7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_linear_redstone.png"
+hash = "9817c77da17cbc12ce49b1a8a5859d402fca16ea8fa4c824511f62205e38e0cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_amethyst.png"
+hash = "ccbcc723cf5868cdaba98e0005b9b6b122ca1e490a23a069b7cd79cf1bd2d5ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_copper.png"
+hash = "b26f5b612c1168ba2e8981e496d0e12a457f14cf3edb9da17b8958ff3b4f91b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_diamond.png"
+hash = "63f43df6a4cfaee53127f89611592f3707573b3dd7aae6f48a4d0aed1fe260fc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_emerald.png"
+hash = "7e13f43357d2c611237972d9fe4de474f2d38ad55495dc0160b61418a08ebcf9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_gold.png"
+hash = "94f0b608469578dfe3c7b90cd30af745adadd346163ed5eb38cc981886ba72e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_iron.png"
+hash = "18e3901439f5cb0500eaa313db142c82c7c1b4ac0d76aa6b9cf8b906c188b06c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_lapis.png"
+hash = "d947f7e770e2af65be9de24eac7f3d211f9c784f7e9daf8937833365d3415d3b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_netherite.png"
+hash = "4c88d56192389bc1ea84a5a8aa1ed12580c989f874e790187aade38ce25e4caa"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_quartz.png"
+hash = "3c7469ac4da4d18d4234f31498cc145e518d9e2ea20a120642c1e7c3d3626224"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_4/crossbow_brimstone_4_tracks_redstone.png"
+hash = "d329ca5af67f160825259b11b7c679443e7932315159f8f3cd1426fc0f7f4827"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_amethyst.png"
+hash = "1e655abf76c0ef313e95fc6a6b27f71b6103d783384340755b43e3554aebd4fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_copper.png"
+hash = "db026e9127f819a8c7183a7e829b9813bbc93bda712266725020cc8240a3d6da"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_diamond.png"
+hash = "cbb16e49a7ea04a1b166477a8fd2ccfa5af7e5ff9efa51b493bbf916f59623b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_emerald.png"
+hash = "d13dac9832b1e5dd1078ba17794a892a2eaa372e08cc51c82fba2bd9dfa1cc3a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_gold.png"
+hash = "a44ae109a45f6212f2887730242b293badb00649b2507a1a9930cf6cf79068bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_iron.png"
+hash = "85e94d66f750b57acd2618f70d8840c19c1a0c1b37685b8bfde383890182cbda"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_lapis.png"
+hash = "52d500dd4bd623ba80183e306bc64eab6a262f25bb2a514300ef0eb8e42430e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_netherite.png"
+hash = "36013983875e0b5b523faa66f0c6f87f94f29238a149067207e18c592c50192f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_quartz.png"
+hash = "529649c8e5dd8f7d99a91782d8bf82447d9cec3567840740c973988490b737c8"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_charge_redstone.png"
+hash = "35d1bcd47f6300fc4162e4980a8b70cd3704bd1523bf43e8a0ca425b2f24ae29"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_amethyst.png"
+hash = "f53603e43c318786b615dd9eef2387a4cf59748bc7ad3a23560701224ba015b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_copper.png"
+hash = "ffa60b968db1936b454efd57b101a2f8ad7d81f1a228813d8f55a003284fecf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_diamond.png"
+hash = "eb8fa04bccedadd1266b11f1c939065281fd40458e5134984e063d3c1dd08011"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_emerald.png"
+hash = "477529d42f32dad740a22cf40aa9231172aaa170c67387d7abbc497789bf6641"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_gold.png"
+hash = "cdb745f6552556131920c702201c5bb4c66d38de0d7714cf4ac24781d0ce88dc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_iron.png"
+hash = "edd4f75af1b1cc1f6ad6d1305c01202e68c2e2a0a974dfb0271bf6a4ccba0462"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_lapis.png"
+hash = "4a7c3b7e023c928748638bb2f795356cba35ee1e9cdd98b47f67dc26dbac200c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_netherite.png"
+hash = "8941374efdb5143bca0ec4b747278f6349fb304f196866affa96d8bd53562106"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_quartz.png"
+hash = "ad232f28cd1a076004d8df936b39a3e615ac8f4b09aa89d109221e40fca6424b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_frost_redstone.png"
+hash = "f95c5fd33930027a4b5e2410f3e7b18506beb2c4209826dcc3f7feb129051357"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_amethyst.png"
+hash = "33909ae411acba1c3555c4eeeb73b15262d4dc12267e7e5d4a9f01ed010755f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_copper.png"
+hash = "72e236728ed15a70f46daac2dd1a3e846a26adae692d7c610d48c0a6b0fde7bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_diamond.png"
+hash = "a7cc988935a27345e789f299d1abd809292c33151f41b9aafbe0c2e78185601d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_emerald.png"
+hash = "7083990f892074f383e1a1802394431aa3531cc70edd7f5740716222492625bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_gold.png"
+hash = "a9439233039eb742947c11ffc532b0c9ae2e1903b84ca9cf8f0c102a92eb3c63"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_iron.png"
+hash = "cdc303ceef6454bfac0590e5b0dbd4e5a3d6d2f4e03a62644e77e41343da32c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_lapis.png"
+hash = "f7e60bdace0b218f73d6ecadaf0dafb14b1e7768b5a067b71b612bc2fbd1b5fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_netherite.png"
+hash = "b7309b5ff7e83bb278d8bb6b4b384d508f74f01de65cafea8df405fa400d0971"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_quartz.png"
+hash = "626ba70fe266238fd26b68b7e60bcd71a99ccf76559b353eb6834251900243f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_linear_redstone.png"
+hash = "ff36f81c5478581d6b142b4dcd6a5c4524f0b9861f982b2e67e4e31801f50d7b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_amethyst.png"
+hash = "3284315a92242fd2b63f89559c1be3839f2c3d0ca2da9a2d4602ceb8807b2037"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_copper.png"
+hash = "b034c14f7acfdc60d2cc59e5e551e034b917c75bbf6f4f2b1093187b2425c183"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_diamond.png"
+hash = "200d2fa582a0fd576ed7dc1b18cea812931bd3804665cc05f3763c76398860ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_emerald.png"
+hash = "500d23d0a4e354bf3e42744361bf84dd4dd939979e48e38de0ea4b34f1eed312"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_gold.png"
+hash = "68ec4c560c6593c780ee46890decbe0349afabaa35f8792acf42055a96ab9a5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_iron.png"
+hash = "53539c717569a5acbcc355a93defe0c36d5af13eb3a710af32e8219c12caee43"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_lapis.png"
+hash = "8d0bea7e0d1f2e74b4f37777008a644fc53a06ba5fd14d3d93d336773f1d2fe9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_netherite.png"
+hash = "ccd1ef7707653b6fc525db06a57b2f91de5922111186c3608390e481a032dc1d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_quartz.png"
+hash = "470329153aa45982cec80a4b2b64b827bc6bc9668191322a87e65891d968946f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/brimstone_5/crossbow_brimstone_5_tracks_redstone.png"
+hash = "0852fd115584344810147267a3488de2a59b8ba1fe6e9309c8ba9b4dc9a169ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_amethyst.png"
+hash = "32407b7d7093f96175fe7d2fbf51b32163491eb11ac1a064c8b26a4af6b2b03d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_copper.png"
+hash = "5daeae760466f0f6051e7943e112c1f58599c21ec532bf0d98a638b6206f02d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_diamond.png"
+hash = "f51492742b23e3d41fad89494932d6cd595afc4f43fb7a738c8183fcf91a0717"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_emerald.png"
+hash = "b66354712fd78d130e05cb2cda2dbaee9596c30f892dfab08a7dbbd4e63637c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_gold.png"
+hash = "ad8c2facd7ba9c06a644adc2a9aff8a2357d8885b01bd4c6aabd902764d67678"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_iron.png"
+hash = "571f3d8e90dcaf8b440bb19a9d5355313d097f249f8a399c8a10fe5c3df9f87a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_lapis.png"
+hash = "0ed2fff00b543560248492023c7b9fdc26be5a265ab9806323432a8108b9662c"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_netherite.png"
+hash = "65ad7de96fe2cc7451f132ee807bfbc06a521dc6dccc6571b828f1cd31f191cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_quartz.png"
+hash = "b91fda4cf5b1880c2122660e4e17cd1100bc77c5f8ed3aee1075012b9a5997e7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_charge_redstone.png"
+hash = "8693e17714cb3e28ce29cd486d395932c48974f7f5745ffef1a63471cbc3d680"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_amethyst.png"
+hash = "c456430fd624f1a0c3208bcf1e1af1efe5b330928e864f4eacb6002f3db91df4"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_copper.png"
+hash = "9e559fac021d2650217e3c37fb027f98f65994aeed00be3d05bd3b71db4ddd31"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_diamond.png"
+hash = "f7b6b101de4827dc3a68b8a7db485a7a4786ed3f8be97c973437aaf1b082f931"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_emerald.png"
+hash = "3c0c20d11941ca3d78f07acd1adbb6d0ccb6b75ae386af38940c9b029380bdfc"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_gold.png"
+hash = "689cad5e4ec8e7462948d922ab8e7e69eb52234fea9fc8258904744ddb4075ec"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_iron.png"
+hash = "c8439f419592a301c16845873f92416a1a3c9102dd9cc5491fe84909849b150d"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_lapis.png"
+hash = "8d26b6fdc15a2b19d1f8615971fddb203f6c1392bd0280c133d293586b01a750"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_netherite.png"
+hash = "f9ec4fb1e48141ab0348165f6c283cf069c79b9693c7a16da52d2c7b1096fb5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_quartz.png"
+hash = "048ea36b985066dc679c1f159ac4519bfc7b780cff55d6cfb090f7410f5865e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_frost_redstone.png"
+hash = "ee042384b9939afe82af07c0d34a219f4ddc21ddbf1ca50ccbf2079f915fe246"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_amethyst.png"
+hash = "a627e0551a01f361ceea76d515a389560c2b9aa5f435c404056807501c45e29e"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_copper.png"
+hash = "63949b3b9afa7d5cc3e4b1f208bbe969bf0f2333ef5520deffca33693c608b80"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_diamond.png"
+hash = "d22359f15e2823fcf9df1c2d4ad33b8e7241766a5b6dcaf43bdb5ff20eb35b41"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_emerald.png"
+hash = "9eeda720ef270a02008002a2ca2704d1e3828a186db617271bbc65ae4dcbdce6"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_gold.png"
+hash = "6195e6f3a09c5a888f96c59165307af8cc82233868f8bed370061bcdf85b4cae"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_iron.png"
+hash = "4db7c8c67534b4d510271b82f5d73f2f40ba4f9690698031c804fc942da19b25"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_lapis.png"
+hash = "c3c17702756e68b0a41e48f31974d58152266b52c040ed5413311e307d6164b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_netherite.png"
+hash = "9de52a6aa11efacd93fda22c4c994dae5bc7710057003d94c832f257c74435bf"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_quartz.png"
+hash = "712bfeb81409c7c1031e6c4e4250e56ff7d7b33db48290e66514f6d34a544585"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_linear_redstone.png"
+hash = "bfc62109618e3637c8edb57d933ac9f02619ff910f3b1bf70b45e7499d4b2e61"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_amethyst.png"
+hash = "d8e84f1c3642b03c38c27ceb0dd5e0d03432466e11720e31858be34739dc1b47"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_copper.png"
+hash = "09763ce85709b56e34c384796189ba017328afafc63104c6327d785d7eeedca7"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_diamond.png"
+hash = "9018da40eb4e4925fdfea10fa0a9850fddafb243b51e6c2696b07ff5f1ed70e9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_emerald.png"
+hash = "8083684432031e2950c281ad4df05e570d56bece8c098f0717fcb5dbd4e0ecfe"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_gold.png"
+hash = "df4e00fb5dc10b0a31b8648d799095f45c6e01c8dd38d1b5a41dc44b81208f60"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_iron.png"
+hash = "06a185fb2595756ce9a476c6741f8373ba2d2eeb0772a883ab8879e4682233ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_lapis.png"
+hash = "cbb9c82000c763808758b8242b057004fd32a31ba0dfc807d13e39ddee39774b"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_netherite.png"
+hash = "47c22553ed91d1fe65681e2271bc70029f9d549990725d3faa45acece5774504"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_quartz.png"
+hash = "544a8b23de474d2b7dbf32d2cd4b6ec10e63eda87f511cd14a70f24ecff7eee0"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/textures/item/torch/crossbow_torch_tracks_redstone.png"
+hash = "94c52ee91ae50c45514e31e3657dc41a72796e5c500d605cecdb6b6abdd034d9"
+
+[[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/pack.mcmeta"
+hash = "9b58d3b6c1a88797716c0d7ff72759038b59b8e91cca89bc7b7c6a04e76b8925"
+
+[[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r490132_MC1.20.x.zip"
 hash = "c187e271760439867f857abfe0d7b8723ffe3d8f1e01a069bf10d70ea92cf5ce"
 
@@ -651,11 +1967,6 @@ hash = "88a665fe5b5b8dfd8535db068e9972d8a41af502602fc600a931520e434637ae"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "81d29eaa469c67cd4111dfce12c66bfbe78571a69b5b60288f428c18875bab12"
 metafile = true
@@ -708,11 +2019,6 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f251cafe3cd3297df6a055a1d5df2c3390f791e2420fc666c5b9ee7fc62126b1"
-metafile = true
-
-[[files]]
-file = "mods/mapfrontiers.pw.toml"
-hash = "ee6482b8178c0412beadfe8be78085fe398a6ac3f478ce9683af2aa48ed495c1"
 metafile = true
 
 [[files]]
@@ -1091,6 +2397,16 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "03c2ff3f5a8199f5ef283581b9f8ef3c5bd147ebc3705998a3eb9e3b8264e9b6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
 metafile = true
 
 [[files]]
