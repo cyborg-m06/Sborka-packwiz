@@ -1,6 +1,0 @@
-{
-  "parent": "enchancement:item/crossbow_amethyst",
-  "textures": {
-		"layer0": "tooltrimsenchancement:item/amethyst/crossbow_amethyst_tracks_gold"
-  }
-}
