@@ -105,6 +105,10 @@ file = "config/paxi/resourcepacks/Create Computers Fabric Resource Pack 1.2.1 - 
 hash = "18fe3c38862df9fba634c87d27caf2c859f0f4be8e5243b0581d21a13ec65d6e"
 
 [[files]]
+file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/amethyst/crossbow_amethyst_tracks_gold.json"
+hash = "ee73f1aab957070c215aaeecfa16887145255a68d4aa4448333d5eddc9481ffb"
+
+[[files]]
 file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_amethyst.json"
 hash = "19e53d4a2fed538f42db44809c5f93efa92a783b74b340a2e6e2aa21b97a6074"
 

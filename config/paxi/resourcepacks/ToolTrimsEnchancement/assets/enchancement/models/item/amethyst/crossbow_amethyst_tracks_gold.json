@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+	"layer0": "enchancement:item/amethyst/crossbow_amethyst_tracks_gold"
+  }
+}
