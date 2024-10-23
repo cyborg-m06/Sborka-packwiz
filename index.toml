@@ -110,7 +110,7 @@ hash = "ee73f1aab957070c215aaeecfa16887145255a68d4aa4448333d5eddc9481ffb"
 
 [[files]]
 file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_amethyst.json"
-hash = "f126b415735c59cf681759e08011cb32a6edb33fc1e17b5d8601418c24f1f442"
+hash = "c96a5c66027ddb73fb05ef881814f597dd439a07f126fa29b8c0345ebd97bb80"
 
 [[files]]
 file = "config/paxi/resourcepacks/ToolTrimsEnchancement/assets/enchancement/models/item/crossbow_brimstone_0.json"

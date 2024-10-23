@@ -5,7 +5,7 @@
 	},
       "overrides": [
 
-        { "predicate": { "custom_model_data": 311015 }, "model": "enchancement:item/amethyst/crossbow_amethyst_tracks_gold" },
+        { "predicate": { "custom_model_data": 311015 }, "model": "enchancement:item/amethyst/crossbow_amethyst_tracks_gold" }
 
     ]
 }
