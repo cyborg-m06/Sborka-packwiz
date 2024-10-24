@@ -14,5 +14,5 @@ version = "v3unHP1U"
 
 [option]
 default = false
-description = "Compat mod for Create and Iris for shaderpacks. Requires Iris. Rumor: can have issues even with shaders off"
+description = "Compat mod for Create and Iris for shaderpacks. Requires Iris."
 optional = true

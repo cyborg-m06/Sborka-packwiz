@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "5704d8e8d0c5d8e840c2fbd0da3759a18b7a8d47985ac77ca30aa65913b15339"
+hash = "d42338ede52cfe1ba0454d279a70aa25653f0eebcee50699b8434aa7a5a54f07"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "9533bf5a38bb96fe67df246f0c2ac5ce26604c375bfc069487a715e44fabecb9"
+hash = "83992389f4faf05e6e00be4f8374373edfd50de99955f2def985d880209ad38c"
 metafile = true
 
 [[files]]
@@ -400,11 +400,6 @@ metafile = true
 [[files]]
 file = "mods/dice-(fabric-port).pw.toml"
 hash = "aff410d1e7b7078cb695cb5678ca71b2c826952fbe40689a3dfbb2c08ee13a21"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "6eb5edfe7da7479c8ff936f73b9f0267d6a495893b15250915c103ca2e2d15ff"
 metafile = true
 
 [[files]]
@@ -517,6 +512,11 @@ file = "mods/fabrication-3.4.19+1.20.jar"
 hash = "b420c70276c55f14a91366d6c29bbbe1617723ab7ab1da2fa442fa3600e313ed"
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "50c6faa614dd688541639cca775e7fe9355020c6fe3c3df0998e360039a2038f"
+hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "a6154c0178fb3cd04025a95b733ccdefd72db3db6fff34da1b18db7c5d2495d2"
+hash = "9931b13568ab17f8780ff3ab4677fd576caa70ae4238686f7c520407544164bb"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a9e6b40125df19743b7038dd671592877a302d3475dcd5837bc1d3f935cfea84"
+hash = "5461619d8b3d261aa7aa575ece7185daae558deeb1fcf3531320dac494a97632"
 metafile = true
 
 [[files]]
@@ -768,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
@@ -1100,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "849941adcef2f21e00df5dc9f7fb70d267c29453922319686522ab485a5d6cc1"
+hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
 metafile = true
 
 [[files]]
