@@ -122,7 +122,7 @@ hash = "3c7ce9e5cafc8d265c8f53fa684933e3f80e99ec6105d7d8e82c5933de542297"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "2273453fc00d7a4eb4ca4d0b01b9577c50651f8898ffaacd8035594232a43d3b"
+hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "config/universal-graves/config.json"
