@@ -1,6 +1,6 @@
 name = "SinnioriPinniori Sborka: Fabric Edition"
 author = "m_06"
-version = "0.9.9"
+version = "1.0.0-rc1"
 pack-format = "packwiz:1.1.0"
 
 [index]
