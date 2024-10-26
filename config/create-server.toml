@@ -436,7 +436,7 @@
 	#.
 	#The volume of Air added by each level of the backtanks Capacity Enchantment
 	#Range: > 1
-	enchantedBacktankCapacity = 300
+	enchantedBacktankCapacity = 400
 	#.
 	#Amount of free Extendo Grip actions provided by one filled Copper Backtank. Set to 0 makes Extendo Grips unbreakable
 	#Range: > 0
@@ -479,12 +479,12 @@
 		#[in Blocks/Second]
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 36.0
+		trainTopSpeed = 32.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 24.0
+		trainTurningTopSpeed = 20.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
@@ -497,12 +497,12 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 60.0
+		poweredTrainTopSpeed = 52.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 30.0
+		poweredTrainTurningTopSpeed = 26.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
