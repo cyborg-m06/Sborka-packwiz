@@ -14,7 +14,7 @@ hash = "e4daca06fe99e316540703b46de52910fffbbb477f5a6ea25132a368eb1d5ffd"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "d0d984dbc51537085d00212cb24bebc369ad2cc25f5ade5d0d20a18c23bcc655"
+hash = "e4dad2a61616b7508c79134f8e4b2d045c0f3b5f24c393851c9086de282890a5"
 
 [[files]]
 file = "config/enchancement.json"
@@ -598,6 +598,11 @@ hash = "254e2d5a732a1a2c9a55531f44b439e1c68961a0b1426d204ae477b806da2d4c"
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
+metafile = true
+
+[[files]]
+file = "mods/ice-boat-nerf.pw.toml"
+hash = "1a3a401bd2acb11c073ed27fc8159347106ee01cbe5026967d71a21cb819ae92"
 metafile = true
 
 [[files]]
