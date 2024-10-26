@@ -870,6 +870,11 @@ hash = "3217ee9b8660d047ec3615b05dd9c621db0f1dd63b6f1d36bb7e56adca122cee"
 metafile = true
 
 [[files]]
+file = "mods/potionparticlepack.pw.toml"
+hash = "cab231684685ef2e2901afcc5d08b03c3bb9a53a96c51cedd869ccd5d9798769"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "9d924898135876e8719c7e59cebe9c31811f405d65ccbdaa9305ec47c10263b8"
 metafile = true
