@@ -125,30 +125,6 @@ file = "config/tectonic.json"
 hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
-file = "config/universal-graves/config.json"
-hash = "51d3f5cd8e681203fe9b84f620698df553fa0c32414a2fe066bc38864b29cbba"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_player.json"
-hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_zombie.json"
-hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
-
-[[files]]
-file = "config/universal-graves/example_models/default.json"
-hash = "1125d4fd45114342591b45301334d19572dfadd32b192ee6a63e0b7f7cee36a3"
-
-[[files]]
-file = "config/universal-graves/example_models/player_head.json"
-hash = "e16066808d90e3d89e806d833bc6adb3ddfe9132f38198e6b2ad0c3b5851f594"
-
-[[files]]
-file = "config/universal-graves/example_models/soul.json"
-hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
-
-[[files]]
 file = "kubejs/server_scripts/more_recipes.js"
 hash = "5af5f1afcd990265f1d13dfa36533dd21313429735f07d28120fc4a0f2d24055"
 
@@ -813,6 +789,21 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "ddca38b0907f4ce306a04012a8aa131e0e0d1952ea0e0074ac363e70b36e07ce"
+metafile = true
+
+[[files]]
+file = "mods/origins-enderxolotl.pw.toml"
+hash = "259f1e4c0217ca6268d1e7389b2ebb94670db2c39175885aeed7d0ef3f9916ff"
+metafile = true
+
+[[files]]
+file = "mods/origins-kitsune.pw.toml"
+hash = "84f43c2b60040abd1344329e23daa8e787a26b48e84cd98fade767e807aa45d6"
+metafile = true
+
+[[files]]
+file = "mods/origins-panda-chen.pw.toml"
+hash = "f67ce62b573d278b5902a71d0e6de19ee22518a17fe2ff1c804d25520400c10f"
 metafile = true
 
 [[files]]

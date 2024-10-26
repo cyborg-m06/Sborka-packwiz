@@ -1,0 +1,13 @@
+name = "Origins: Panda Chen"
+filename = "origins-panda-chen-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xu2WNJBJ/versions/SbUvgRHY/origins-panda-chen-1.3.jar"
+hash-format = "sha512"
+hash = "e85caf53fadc137f4d4b070107cad21719e6eeb791124cf3a22d03a4f265ba8c381651c64c93641f7c97964f9b243dc67ad15062a6a49aa4ae5a4cda79bf5e38"
+
+[update]
+[update.modrinth]
+mod-id = "Xu2WNJBJ"
+version = "SbUvgRHY"
