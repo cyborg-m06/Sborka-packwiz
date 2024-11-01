@@ -126,7 +126,7 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "5af5f1afcd990265f1d13dfa36533dd21313429735f07d28120fc4a0f2d24055"
+hash = "83292dc41184661bbb1c19904e2c63320e7bd8d0703234c158591ba81f9e4210"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "d42338ede52cfe1ba0454d279a70aa25653f0eebcee50699b8434aa7a5a54f07"
+hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
 metafile = true
 
 [[files]]
@@ -280,7 +280,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "b0a8af8d74a07e5d7b9197c3b19e93d8b2f595c9bca056567925d1ed83dd0d7c"
+hash = "de194e590874cf949ff660b72c0eafbf61dbf1863ac5edee3540662ca54a4d6a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -539,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ae6f348bf819766652cc5239404cfa02f03fa0580d686b7c7215576e12f45e00"
+hash = "0482f2072a1323a5421af02429c24f073f00b201e7907d90786c8da0a053a92d"
 metafile = true
 
 [[files]]
@@ -583,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
+hash = "06f59353b63e48fb3b7f0684ffad3c1cc7bbae2ed39c7749df6cda3dd85f3daa"
 metafile = true
 
 [[files]]
@@ -628,12 +633,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "88a665fe5b5b8dfd8535db068e9972d8a41af502602fc600a931520e434637ae"
+hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "81d29eaa469c67cd4111dfce12c66bfbe78571a69b5b60288f428c18875bab12"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
@@ -723,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5461619d8b3d261aa7aa575ece7185daae558deeb1fcf3531320dac494a97632"
+hash = "af9d86cf0e7700334785793d069c205990a6f9803b832aa90010019a03a62554"
 metafile = true
 
 [[files]]
@@ -794,11 +799,6 @@ metafile = true
 [[files]]
 file = "mods/origins-enderxolotl.pw.toml"
 hash = "259f1e4c0217ca6268d1e7389b2ebb94670db2c39175885aeed7d0ef3f9916ff"
-metafile = true
-
-[[files]]
-file = "mods/origins-kitsune.pw.toml"
-hash = "84f43c2b60040abd1344329e23daa8e787a26b48e84cd98fade767e807aa45d6"
 metafile = true
 
 [[files]]
@@ -925,13 +925,18 @@ hash = "b9b7e7fd28a2e26213354c997e4d18c4fc4cb79673be7234dbd50f334bd404b7"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "7c6e7bc4bced624a331c136555d5c5df601345c5307fc704acad26eecd759a98"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0c4bdde66e3da6c7b7e6bec240921b46da85c3e17c9d7e4e45f85c4370f96a3f"
+hash = "3b5e0a17223dc2f8110eeacb3b563c9527880eb360b0dd381a6d9daf1bbfc835"
 metafile = true
 
 [[files]]
@@ -1081,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "a001b617b8c4c9e1587f94d9ab789228243f8c3a9c8b65725d3cfd91123c0475"
+hash = "5714fa5383c847fca04da2649382661787062cfdcda5628a20558bc701edefe8"
 metafile = true
 
 [[files]]

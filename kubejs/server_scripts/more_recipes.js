@@ -218,5 +218,41 @@ ServerEvents.recipes(event => {
 	
 	event.remove({ output: 'origins:orb_of_origin' });
 	
+	event.remove({ output: 'design_decor:brass_lamp' })
+	event.shaped('2x design_decor:brass_lamp', [// arg 1: output
+    ' C', 
+    'ABA', // arg 2: the shape (array of strings)
+    ' C '  
+	], 	{
+		A: 'create:brass_ingot',
+		B: 'minecraft:glowstone',
+		C: 'create:brass_nugget'
+		}
+	);
+	
+	event.remove({ output: 'design_decor:copper_lamp' })
+	event.shaped('2x design_decor:copper_lamp', [// arg 1: output
+    ' C', 
+    'ABA', // arg 2: the shape (array of strings)
+    ' C '  
+	], 	{
+		A: 'minecraft:copper_ingot',
+		B: 'minecraft:glowstone',
+		C: 'create:copper_nugget'
+		}
+	);
+	
+	event.remove({ output: 'design_decor:zinc_lamp' })
+	event.shaped('2x design_decor:zinc_lamp', [// arg 1: output
+    ' C', 
+    'ABA', // arg 2: the shape (array of strings)
+    ' C '  
+	], 	{
+		A: 'create:zinc_ingot',
+		B: 'minecraft:glowstone',
+		C: 'create:zinc_nugget'
+		}
+	);
+	
 	console.log('Custom recipes added');
 })
