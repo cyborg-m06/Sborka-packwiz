@@ -126,7 +126,7 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "83292dc41184661bbb1c19904e2c63320e7bd8d0703234c158591ba81f9e4210"
+hash = "1f5aaf5bc271bb038d370405d03b4021735d405be08f542a44314c9029e5cd74"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "5fb584e42f989f87e25b99a59258586528afe10d50b8826a2940f5f1cd76b82a"
+hash = "ba9f6d5101942ad2e822b7da72f640724ca29313b76283df9d800a2ab30fb5b1"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "feae8e3d7fe67fc6a9cae5c4c59ae1c5a7b202059ff16c55cc9c8b9d81509aba"
+hash = "2f14599a430f0988274bd6787692bb453157ad1d45c23e048e26c7c4ffc3cb54"
 metafile = true
 
 [[files]]
@@ -1095,8 +1095,8 @@ hash = "03c2ff3f5a8199f5ef283581b9f8ef3c5bd147ebc3705998a3eb9e3b8264e9b6"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
 metafile = true
 
 [[files]]

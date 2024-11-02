@@ -220,39 +220,77 @@ ServerEvents.recipes(event => {
 	
 	event.remove({ output: 'design_decor:brass_lamp' })
 	event.shaped('2x design_decor:brass_lamp', [// arg 1: output
-    ' C', 
+    ' C ', 
     'ABA', // arg 2: the shape (array of strings)
     ' C '  
 	], 	{
 		A: 'create:brass_ingot',
-		B: 'minecraft:glowstone',
+		B: 'minecraft:glowstone_dust',
 		C: 'create:brass_nugget'
 		}
 	);
 	
 	event.remove({ output: 'design_decor:copper_lamp' })
 	event.shaped('2x design_decor:copper_lamp', [// arg 1: output
-    ' C', 
+    ' C ' , 
     'ABA', // arg 2: the shape (array of strings)
     ' C '  
 	], 	{
 		A: 'minecraft:copper_ingot',
-		B: 'minecraft:glowstone',
+		B: 'minecraft:glowstone_dust',
 		C: 'create:copper_nugget'
 		}
 	);
 	
 	event.remove({ output: 'design_decor:zinc_lamp' })
 	event.shaped('2x design_decor:zinc_lamp', [// arg 1: output
-    ' C', 
+    ' C ', 
     'ABA', // arg 2: the shape (array of strings)
     ' C '  
 	], 	{
 		A: 'create:zinc_ingot',
-		B: 'minecraft:glowstone',
+		B: 'minecraft:glowstone_dust',
 		C: 'create:zinc_nugget'
 		}
 	);
+	
+	event.shaped('minecraft:furnace', [// arg 1: output
+    'AAA', 
+    'A A', // arg 2: the shape (array of strings)
+    'AAA'  
+	], 	{
+		A: '#c:cobblestone'   
+		}
+	);
+	
+	event.stonecutting('design_decor:blank_sign', 'create:andesite_alloy')
+	
+	event.stonecutting('design_decor:letter_sign', 'create:brass_ingot')
+	
+	event.remove({ output: 'design_decor:brass_floodlight' })
+	event.shaped('2x design_decor:brass_floodlight', [// arg 1: output
+    ' B ', 
+    'ACA', // arg 2: the shape (array of strings)
+    ' A '  
+	], 	{
+		A: 'create:brass_ingot',
+		B: 'minecraft:glowstone_dust',
+		C: 'create:andesite_alloy'
+		}
+	);
+	
+	event.remove({ output: 'design_decor:copper_floodlight' })
+	event.shaped('2x design_decor:copper_floodlight', [// arg 1: output
+    ' B ', 
+    'ACA', // arg 2: the shape (array of strings)
+    ' A '  
+	], 	{
+		A: 'minecraft:copper_ingot',
+		B: 'minecraft:prismarine_crystals',
+		C: 'create:andesite_alloy'
+		}
+	);
+	
 	
 	console.log('Custom recipes added');
 })
