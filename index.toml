@@ -38,7 +38,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "97128f48b49562e5d198a8ebb777d290969d1f2a93d65467a016075380f0e29d"
+hash = "c52ec8d7f7db7d1506697eee8fb2b4e9bf1548cd0df0bffc9e951a5c9e7b97a1"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -917,11 +917,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
-metafile = true
-
-[[files]]
-file = "mods/scholar.pw.toml"
-hash = "b9b7e7fd28a2e26213354c997e4d18c4fc4cb79673be7234dbd50f334bd404b7"
 metafile = true
 
 [[files]]
