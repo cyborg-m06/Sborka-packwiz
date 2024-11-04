@@ -573,8 +573,8 @@ hash = "435fde62e92bc035ab2e658fc8c37ccce45ea0499e60647dfde54eeeaa5be463"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-676.jar"
-hash = "254e2d5a732a1a2c9a55531f44b439e1c68961a0b1426d204ae477b806da2d4c"
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7.jar"
+hash = "8f140c52bfca8728cb64553442f2922834f36ab801e5716ad27a93f0d21e2aba"
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
@@ -609,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "28b2b69062dc1b234ec91cb4cf3d19c6c77f0e0a1b22d4a001e3ab30a744163e"
 metafile = true
 
 [[files]]
