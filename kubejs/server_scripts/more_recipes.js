@@ -296,7 +296,7 @@ ServerEvents.recipes(event => {
 		'ABA', // arg 2: the shape (array of strings)
 		'ABA'  
 		], 	{
-			A: 'minecraft:chain',
+			A: 'minecraft:iron_nugget',
 			B: 'minecraft:iron_ingot'
 			}
 		);
@@ -305,7 +305,7 @@ ServerEvents.recipes(event => {
 		'ABA', 
 		'A A'
 		], 	{
-			A: 'minecraft:chain',
+			A: 'minecraft:iron_nugget',
 			B: 'minecraft:iron_ingot'
 			}
 		);
@@ -314,17 +314,17 @@ ServerEvents.recipes(event => {
 		'A A', 
 		'B B'
 		], 	{
-			A: 'minecraft:chain',
+			A: 'minecraft:iron_nugget',
 			B: 'minecraft:iron_ingot'
 			}
 		);
 	
 	event.shaped('minecraft:chainmail_leggings', [// arg 1: output
-		'BAB', 
+		'ABA', 
 		'A A',
 		'A A'
 		], 	{
-			A: 'minecraft:chain',
+			A: 'minecraft:iron_nugget',
 			B: 'minecraft:iron_ingot'
 			}
 		);

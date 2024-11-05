@@ -126,7 +126,7 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "b9e2a21c4c1a2ec1597a2ecea2d7d843118926a8c8c32e635217f0cc4b4379c8"
+hash = "756121442c623eb863e0408c5f4f8630f6af1d565be064b1ad6f6ffdef8c06b6"
 
 [[files]]
 file = "mods/aileron.pw.toml"
