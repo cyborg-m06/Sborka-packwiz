@@ -290,6 +290,44 @@ ServerEvents.recipes(event => {
 		C: 'create:andesite_alloy'
 		}
 	);
+
+	event.shaped('minecraft:chainmail_chestplate', [// arg 1: output
+		'A A', 
+		'ABA', // arg 2: the shape (array of strings)
+		'ABA'  
+		], 	{
+			A: 'minecraft:chain',
+			B: 'minecraft:iron_ingot'
+			}
+		);
+
+	event.shaped('minecraft:chainmail_helmet', [// arg 1: output
+		'ABA', 
+		'A A'
+		], 	{
+			A: 'minecraft:chain',
+			B: 'minecraft:iron_ingot'
+			}
+		);
+
+	event.shaped('minecraft:chainmail_boots', [// arg 1: output
+		'A A', 
+		'B B'
+		], 	{
+			A: 'minecraft:chain',
+			B: 'minecraft:iron_ingot'
+			}
+		);
+	
+	event.shaped('minecraft:chainmail_leggings', [// arg 1: output
+		'BAB', 
+		'A A',
+		'A A'
+		], 	{
+			A: 'minecraft:chain',
+			B: 'minecraft:iron_ingot'
+			}
+		);
 	
 	
 	console.log('Custom recipes added');

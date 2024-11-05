@@ -126,7 +126,7 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "1f5aaf5bc271bb038d370405d03b4021735d405be08f542a44314c9029e5cd74"
+hash = "b9e2a21c4c1a2ec1597a2ecea2d7d843118926a8c8c32e635217f0cc4b4379c8"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -166,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/autotag.pw.toml"
 hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "fa8863c2847024f4f665c94a643e87cfd48f88f86a49525bbc1260db9a94c8be"
 metafile = true
 
 [[files]]
