@@ -1,12 +1,12 @@
 name = "SinnioriPinniori Sborka: Fabric Edition"
 author = "m_06"
-version = "1.1.6"
+version = "1.1.6-hey-apparently-i-can-write-anything-here"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a1d86fa39f4159734aa8b39be8c047d1b9df120bf93de10354d6fe181ac7bf4b"
+hash = "6542ff18ef113b75651aa37a02831479c9deab16f15c09478ac1ec533c44c640"
 
 [versions]
 fabric = "0.16.5"

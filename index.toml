@@ -38,7 +38,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "c52ec8d7f7db7d1506697eee8fb2b4e9bf1548cd0df0bffc9e951a5c9e7b97a1"
+hash = "5ff6076e22287dbd7a1b5f82a952277d9cb5c78eaaa5c4b910d085ac31cc23ad"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -545,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/glowcase.pw.toml"
 hash = "43dce3aef37c6609c9da0b70acf4280e243204bdcf66151dc53186fd008e7b0c"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
 
 [[files]]
