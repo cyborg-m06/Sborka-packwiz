@@ -9,6 +9,10 @@ file = "config/aileron.json"
 hash = "46fcc01d73ca2e5acf19503bfd84cf0f6cdfa8a501bc8ae0f603fec379f67237"
 
 [[files]]
+file = "config/backpacked.server.toml"
+hash = "edc2cae53bcc1b75e986801e97d44b8756adcaaf70942eb57137d6bf448bdfb4"
+
+[[files]]
 file = "config/comforts-server.toml"
 hash = "e4daca06fe99e316540703b46de52910fffbbb477f5a6ea25132a368eb1d5ffd"
 
@@ -126,7 +130,7 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 
 [[files]]
 file = "kubejs/server_scripts/more_recipes.js"
-hash = "756121442c623eb863e0408c5f4f8630f6af1d565be064b1ad6f6ffdef8c06b6"
+hash = "557866a46867f4fe625235a74adb28dd8acfc171e898922462ed97996df6754c"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -169,8 +173,8 @@ hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks.pw.toml"
-hash = "5cf2c39729ed2cfa134c6a872f2cdaf5bee08ede229e8724cfc3630ae62b52b7"
+file = "mods/backpacked.pw.toml"
+hash = "31e881717ccd20932be74a4376b0ee4b9defc7f7a548b2b9922073a7334868da"
 metafile = true
 
 [[files]]

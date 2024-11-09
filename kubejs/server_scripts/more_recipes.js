@@ -328,7 +328,18 @@ ServerEvents.recipes(event => {
 			B: 'minecraft:iron_ingot'
 			}
 		);
-	
+		
+	event.remove({ output: 'backpacked:backpack' })
+	event.shaped('backpacked:backpack', [// arg 1: output
+		'AAA', 
+		'BCB',
+		'AAA'
+		], 	{
+			A: 'minecraft:leather',
+			B: 'minecraft:string',
+			C: 'minecraft:iron_ingot'
+			}
+		);
 	
 	console.log('Custom recipes added');
 })
