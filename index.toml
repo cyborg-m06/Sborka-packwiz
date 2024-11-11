@@ -133,6 +133,10 @@ file = "kubejs/server_scripts/more_recipes.js"
 hash = "557866a46867f4fe625235a74adb28dd8acfc171e898922462ed97996df6754c"
 
 [[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "4a1735019efb4d8ff46319fc0ff774bf61be899181fb31da6b0e17297cf5e423"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "8dfd5c5edebebb525b6c2bd9365bd7a3869ce98fb5b1329a7fee8094e98d13dc"
 metafile = true
@@ -492,6 +496,11 @@ file = "mods/fabrication-3.4.19+1.20.jar"
 hash = "b420c70276c55f14a91366d6c29bbbe1617723ab7ab1da2fa442fa3600e313ed"
 
 [[files]]
+file = "mods/fabrication.pw.toml"
+hash = "c34f4c52569cd7fb3ed174e9d0fb9df8e8f62792dcd3b616d8a5441d50601d52"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
 metafile = true
@@ -737,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ead2c66505996561a848acf872f8a594dcf1621dbcd553ad86b08594e1057b22"
+hash = "2c06ee7dc714f27e599c6d383234b1a91b1b47ecfffb7505dbb5fb79d161c5de"
 metafile = true
 
 [[files]]
@@ -1025,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "adfc3622fb91b0e70736cc6d16526a4bf2c128919360f39e7538a35adfed7fd3"
+hash = "6d81a44ce1a206292d5b990fd0e33e0bcbc799c4a09bfef25b30be9e82c5732f"
 metafile = true
 
 [[files]]
