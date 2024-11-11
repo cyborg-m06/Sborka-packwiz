@@ -492,10 +492,6 @@ hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
-file = "mods/fabrication-3.4.19+1.20.jar"
-hash = "b420c70276c55f14a91366d6c29bbbe1617723ab7ab1da2fa442fa3600e313ed"
-
-[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "c34f4c52569cd7fb3ed174e9d0fb9df8e8f62792dcd3b616d8a5441d50601d52"
 metafile = true
