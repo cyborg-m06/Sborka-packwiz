@@ -18,7 +18,7 @@ hash = "e4daca06fe99e316540703b46de52910fffbbb477f5a6ea25132a368eb1d5ffd"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "984845d4f25b455d076234c7ca5671b80a11e7bc24115af434e81d21058a0a50"
+hash = "59804a6f3744f05bd9803bf21cada426e3c438abc700325401406286d5306aaa"
 
 [[files]]
 file = "config/enchancement.json"
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "de194e590874cf949ff660b72c0eafbf61dbf1863ac5edee3540662ca54a4d6a"
+hash = "20413cb85c4449954fcc96596f18087664c2e21a9423f7e165d672add8a495ee"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "06f59353b63e48fb3b7f0684ffad3c1cc7bbae2ed39c7749df6cda3dd85f3daa"
+hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "7f6fa59b9db6e15b859daf4f7683c89fd0e3b18b341a9f49f719e1f2f93e15b7"
+hash = "4e02cf492b981d533d3785c37c98c9aeee8498ea9cb076bc6e6bdc5d34256f47"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6d81a44ce1a206292d5b990fd0e33e0bcbc799c4a09bfef25b30be9e82c5732f"
+hash = "4d1936052be58688b9ab0a699719b2f227894928d9c06a99637813bf80d85e08"
 metafile = true
 
 [[files]]
