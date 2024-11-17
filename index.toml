@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "9341cb386f88181d2224e5c44cd0def3a53d1b3cedb95f6a9d96c9812b9a1bb6"
+hash = "789e783661d19a6b533cc77e34d7441117b569e8b9aa07856a8c805b0c44c666"
 metafile = true
 
 [[files]]
