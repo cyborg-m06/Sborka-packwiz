@@ -69,6 +69,10 @@ file = "config/friendsandfoes.json"
 hash = "e1a4fe6c00d4065175eb43097e67eb5c1eeb2539dd8496c3cf53dfc81092b45e"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "451ebb705bdfed373184758b4bdeac4d65b3c8bffbf559876ebe8839ed34052b"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d85deaeaa203c437cd60d76bbd4f10c6a36377561122f9a6667a82fdeecb7c40"
 
