@@ -1,0 +1,13 @@
+name = "Crafting Recipes For Create"
+filename = "Recipes For Create-Fabric-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dFK7YEzQ/versions/cJoLTZae/Recipes%20For%20Create-Fabric-1.1.4.jar"
+hash-format = "sha512"
+hash = "2ec4e1bdac1483c53acd18cc63fac8fb32ffa55593af478bd42b0f38f768892e8e59ffb55719f75db96b8df25d9794ba4b53eeefdb62ce466bbb3fbd5938440c"
+
+[update]
+[update.modrinth]
+mod-id = "dFK7YEzQ"
+version = "cJoLTZae"
