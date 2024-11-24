@@ -11,7 +11,7 @@
   "allowRocketJumping": true,
   "rocketJumpMultiplier": 2.5,
   "otherEntityKnockBack": 1.5,
-  "airStrafingMultiplier": 3.0,
+  "airStrafingMultiplier": 2.0,
   "elytraCancelsRocketJumping": true,
   "boostsCancelRocketJumping": true,
   "crossbowsGetInfinity": true,
