@@ -65,6 +65,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "config/fireworkfrenzy.json"
+hash = "f5ff57f5a1f9cee1f0f73dce39e5825280fd12dd6f5a245d81fc1a60e89270a3"
+
+[[files]]
 file = "config/friendsandfoes.json"
 hash = "e1a4fe6c00d4065175eb43097e67eb5c1eeb2539dd8496c3cf53dfc81092b45e"
 
@@ -206,6 +210,11 @@ hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "6da189b0c8713f4c7b81af3fd8207aa4c473ccabeee1770de7da1538efca0b15"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "76ec8272311f7b16313655db276f0f99b8212a41de2c14b68a7efa8d875e411b"
 metafile = true
@@ -226,18 +235,22 @@ hash = "1e2afeb142eeca82b8776b53249b6c71f6a605ba047995994d74d16207ae036b"
 metafile = true
 
 [[files]]
+file = "mods/camptweakshardcodedshiete-0.0.1.jar"
+hash = "1d348886414322d6f05d117488ed46ed92f47b8d389fe9f510c86987f409df5c"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "87690b943f4fd976fcc29900d448e498e70ee10fde622059840fe5e4af715c3a"
 metafile = true
 
 [[files]]
 file = "mods/cat_jam.pw.toml"
-hash = "f9a69af0c4d6a3e958227ca4d3bfe4930ffc734bc7df5616587225dec89c6ae6"
+hash = "84f06484c12f1322f6761fcbb43b12a2202ece777157b3025b3e3010016aef05"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6ec1787d0fc9247eefa406a8b60688de61a00e8369affd80204e9eb26b190202"
+hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
@@ -482,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf0d22c615de599912978e0352bde47a818d9ba306e34f832b578a86f2912433"
+hash = "cbc6ac7cd925b77d81d59f8f56a8d7bfdf5327570d9778b597760d61d8156e43"
 metafile = true
 
 [[files]]
@@ -536,13 +549,17 @@ hash = "fd9fe0b5a587560e3846e8962fb81155a660181b173fa0dec958cf886c95b424"
 metafile = true
 
 [[files]]
+file = "mods/fireworkfrenzyfabricated-0.0.1.jar"
+hash = "b0f4110329e83ae0b8303bdfdeb11c6378fa7511583672dc6146f9506d87bbbc"
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "d9f6f4f9b2bd3e38264d407558636fcb897cb1b0a5d0bef53f02ef139b7d0160"
+hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
 metafile = true
 
 [[files]]
@@ -761,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2c06ee7dc714f27e599c6d383234b1a91b1b47ecfffb7505dbb5fb79d161c5de"
+hash = "0ad670719a1c2449db1516a1925bbfe377f855f9367fa83036484090cd902158"
 metafile = true
 
 [[files]]
@@ -984,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
-hash = "177285b61e98e9c9760bd2a49aeab45a45a53eb3ce24afb1bec4a68ca08a9b76"
+hash = "c7f87fa4a0fb66266880aebfd5c1afe13e6532037cdbfd6c29ed28021977bde5"
 metafile = true
 
 [[files]]
@@ -1044,17 +1061,22 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "5520f823b88c5276425f53f141a3e79c7896a1d22139243d229e61344df9ac0c"
+hash = "6beeb6ee9c6003b06e6d9ab5ab0aaf90f6fb32d3a791d72c932a04c189e6c05d"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5e67e96ab4d6c876dc26256b8025ab517d1f11e5b3909e194a7d9ce2826d7568"
+hash = "481c61790292ee785f7fe95cad50e18de3189edec609bf059958473aebbbe4b3"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "4ca11e8b2f08020232bce98e6329e0831b95c9f4be962126ab865aee503a9724"
+metafile = true
+
+[[files]]
+file = "mods/telepistons.pw.toml"
+hash = "3f4602825206ce4c16d1b5809c2d6c9b68993232eb1c1f7875931ace3754f6d7"
 metafile = true
 
 [[files]]
