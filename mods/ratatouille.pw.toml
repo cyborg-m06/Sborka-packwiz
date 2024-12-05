@@ -1,0 +1,13 @@
+name = "Ratatouille"
+filename = "ratatouille-1.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yufdeaJg/versions/7uRlQFlT/ratatouille-1.0.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "ed56bef10c61623351eab2b9c7bd69aa63b969d95000111d59fbc122d9f1dda716d71ca0f130b5c4f1ab58b4eadf4282f73f15ace989bd79fbee948dd4b1e525"
+
+[update]
+[update.modrinth]
+mod-id = "yufdeaJg"
+version = "7uRlQFlT"

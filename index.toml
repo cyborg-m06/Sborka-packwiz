@@ -145,6 +145,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "4a1735019efb4d8ff46319fc0ff774bf61be899181fb31da6b0e17297cf5e423"
 
 [[files]]
+file = "mods/Apoli-1.20.1-2.9.0.jar"
+hash = "cd6d50180bc90538df83c0cf8d085a8ff02a4525e8b915788cefde63707f9233"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "8dfd5c5edebebb525b6c2bd9365bd7a3869ce98fb5b1329a7fee8094e98d13dc"
 metafile = true
@@ -212,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "6da189b0c8713f4c7b81af3fd8207aa4c473ccabeee1770de7da1538efca0b15"
+metafile = true
+
+[[files]]
+file = "mods/blast.pw.toml"
+hash = "e15f84d436ede8b7358ac2c404a54a410f57896509c73762bd7133c6bc129924"
 metafile = true
 
 [[files]]
@@ -409,6 +418,11 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/defile.pw.toml"
+hash = "c84b0934a336989c2aca3f222d7034b9611c8ee60aa9e09e08be1088fcad0646"
+metafile = true
+
+[[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
 metafile = true
@@ -520,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -535,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "bb2bb541b9a8dabf1fe8e509adb2fb501ecf484f23e63812631debc0fb96187e"
+hash = "16de61b32acb724fc130debd459ffec5366d7a4fa428852aab26bf0d99ba2d97"
 metafile = true
 
 [[files]]
@@ -633,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -658,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "28b2b69062dc1b234ec91cb4cf3d19c6c77f0e0a1b22d4a001e3ab30a744163e"
+hash = "d8c819fde97f9129ff0e9a6402e18598eb7d844c0193007a08aa88f3c0e3e507"
 metafile = true
 
 [[files]]
@@ -778,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0ad670719a1c2449db1516a1925bbfe377f855f9367fa83036484090cd902158"
+hash = "103caf4674b7e6dd8cd189c88bc2a261d135a073a4ebec132316fc14662bb7bc"
 metafile = true
 
 [[files]]
@@ -906,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "9be84c5dc3fb6065cf790ebdff30de0aef6a422052c917fd169d732fa5c8c48b"
+hash = "dab6a10080d3eac8fc975616ca9745e9b66391d7bec03766e630da247b6d4293"
 metafile = true
 
 [[files]]
@@ -927,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "45313e1ad81182fc448a64c1610c66bc77ff11ff2cd2fc9c918733d3ad2e3fcd"
 metafile = true
 
 [[files]]
@@ -1031,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/stevesrealisticsleep.pw.toml"
-hash = "0a7666caa61c6af553a1d283cfc5fcdd60d9ea43896d960c779f29e8ca89cfb4"
+hash = "dac7895d3c2226fe93c9f365ec6cb5e98eda720a126285a1369f46a83230cec0"
 metafile = true
 
 [[files]]
@@ -1066,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "481c61790292ee785f7fe95cad50e18de3189edec609bf059958473aebbbe4b3"
+hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
 metafile = true
 
 [[files]]
@@ -1156,12 +1175,12 @@ metafile = true
 
 [[files]]
 file = "mods/xxl-packets.pw.toml"
-hash = "97ff3e13873aeff3ffa0a53113ffb719ccd1f6bf6b98f74e3461bd7a62451915"
+hash = "2ebccfef870b790452fa9a3d6868f7857757c99e1432138e73a9631d186947e5"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+hash = "88121fbabab3563f8dbb84a32347c753d23eec466c1df3225570cdb42e251029"
 metafile = true
 
 [[files]]
