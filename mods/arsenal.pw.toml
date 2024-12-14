@@ -1,13 +1,13 @@
 name = "Arsenal"
-filename = "arsenal-0.1.3-1.20.1.jar"
+filename = "arsenal-0.1.4-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SQhWMwht/versions/zwUltkGx/arsenal-0.1.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SQhWMwht/versions/d5Lo8eZv/arsenal-0.1.4-1.20.1.jar"
 hash-format = "sha512"
-hash = "af795c882d7a7ee1dcac72c73aa64d5adc49701d994ad96d26af69a56c92f6201013833ddc617e68e3176f9ce892366f5f4d926c9c0979c7a6ab12d0b94d2045"
+hash = "61f4cb0c90916156690a137e5feae85bed6c017ebfe82438b976ed2bc6b5bd4d16a6237d5d003da72a2a5c041004d2fd3343c439ed3f2470c751727a468a3719"
 
 [update]
 [update.modrinth]
 mod-id = "SQhWMwht"
-version = "zwUltkGx"
+version = "d5Lo8eZv"

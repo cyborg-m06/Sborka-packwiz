@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/arsenal.pw.toml"
-hash = "f646f5f51063be9cb5a68ab9ed1ed0ac2319350f6618080dbd87121fcd1624b1"
+hash = "ecfb9b32fd726739f043f670c892779bf638b73da5c728eff4cfb33533089967"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/defile.pw.toml"
-hash = "c84b0934a336989c2aca3f222d7034b9611c8ee60aa9e09e08be1088fcad0646"
+hash = "d91fc343e3c12af0a96ee7c1abb48808812ce63c6e22770c4f6236172d0fc800"
 metafile = true
 
 [[files]]
