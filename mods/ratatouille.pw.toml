@@ -1,13 +1,13 @@
 name = "Ratatouille"
-filename = "ratatouille-1.0.7-1.20.1.jar"
+filename = "ratatouille-1.0.9-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yufdeaJg/versions/7uRlQFlT/ratatouille-1.0.7-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/yufdeaJg/versions/ItOHFGeC/ratatouille-1.0.9-1.20.1.jar"
 hash-format = "sha512"
-hash = "ed56bef10c61623351eab2b9c7bd69aa63b969d95000111d59fbc122d9f1dda716d71ca0f130b5c4f1ab58b4eadf4282f73f15ace989bd79fbee948dd4b1e525"
+hash = "6d5071dc28c32632f720863368c65750ba5726fa4fa8f0f404d019ed346d9e36d0a3079fef12e2412565db75349f778ac4105f57157b84aef8f23c561d577dc2"
 
 [update]
 [update.modrinth]
 mod-id = "yufdeaJg"
-version = "7uRlQFlT"
+version = "ItOHFGeC"
