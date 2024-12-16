@@ -26,7 +26,7 @@ hash = "27047bd534ac44036a9ccb6e889cf9fef9c86499a717182d2a1bd9ec8102192d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8820f68de98d041b48ab29843b3e976e783817e0da5a14977467474479244d72"
+hash = "9500103e420e97730d88e25dc676cbbeb3371fe2b7e397b50682e64594c3c4ad"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
