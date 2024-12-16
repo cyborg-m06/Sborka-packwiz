@@ -25,6 +25,10 @@ file = "config/enchancement.json"
 hash = "27047bd534ac44036a9ccb6e889cf9fef9c86499a717182d2a1bd9ec8102192d"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8820f68de98d041b48ab29843b3e976e783817e0da5a14977467474479244d72"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -349,12 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "3c1fb3f44f84303e6d54cc1b99ac88c4982ab66962a95234190d78595af2a6ec"
-metafile = true
-
-[[files]]
-file = "mods/create-colored.pw.toml"
-hash = "72ffdf2cd19f5cd279969795fa325d7ec057349ee2c3e3700e4ee03c2e9904ab"
+hash = "febab75836c6b57cbb3d9ccc7fcae260cf87109eaa2d891d429911f4f898ed22"
 metafile = true
 
 [[files]]
@@ -379,12 +378,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "2b5bcee81f7a1cea0d67ea9b8afdd88523db60338e2553e0b38db12830341057"
+hash = "46203599fb9e439b5ff23ab3f6f3f18f2a54e29ba7fa04c9c067b8d635320c8f"
 metafile = true
 
 [[files]]
@@ -394,17 +393,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "8cf794fb79858ccbc1be9f4203b5a6603536b296650c17854a6b9dcc129476af"
+hash = "ba075535787558be31d2affa927a9c9582937bd9457f76ca0fc3684827da3f80"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "3a7e9ae9a7ff284d61665a98149fbb07c67b9235315473440ceb9d121a45209e"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
 
 [[files]]
@@ -597,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0482f2072a1323a5421af02429c24f073f00b201e7907d90786c8da0a053a92d"
+hash = "29da2f809ff1287394c2a214f991227c5f0e9dd198f8969ab22c32fd56b3733b"
 metafile = true
 
 [[files]]
@@ -676,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "635e186612c696dfb7ce2b6ba4e667a1d0fc524064cf9a5b1f9fd594bd3dc0ae"
+hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
 metafile = true
 
 [[files]]
@@ -791,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "aa962904e41a1ab65355361653ccd8f6a67a33bcd3f5edb0aba16eacf9d59a8c"
+hash = "6bc382f6783c8051a2cacfac7c70fbf8036b3ca8c7b74a457a102dfca5f06adb"
 metafile = true
 
 [[files]]
@@ -851,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
+hash = "928f468ee559de65f53d3758c1cd3f98ef2e0a7a9aa360355ef5114f565606cf"
 metafile = true
 
 [[files]]
@@ -915,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "dc8a98026a13e4e808fec7e4511e1cddc2edacfa52e93ec6173dfc60e02c331f"
+hash = "6e5dd71a6e6e250389501db7d83991a98190a6959e146586cacca8600508ccad"
 metafile = true
 
 [[files]]
