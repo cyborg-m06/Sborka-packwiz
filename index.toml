@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/arsenal.pw.toml"
-hash = "ecfb9b32fd726739f043f670c892779bf638b73da5c728eff4cfb33533089967"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -427,11 +427,6 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
-file = "mods/defile.pw.toml"
-hash = "d91fc343e3c12af0a96ee7c1abb48808812ce63c6e22770c4f6236172d0fc800"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
 metafile = true
@@ -512,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
+hash = "eb1a4273056f72643891578bdea71b3fcffc5d492376d1a31ff1f177233b2df6"
 metafile = true
 
 [[files]]
@@ -795,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6bc382f6783c8051a2cacfac7c70fbf8036b3ca8c7b74a457a102dfca5f06adb"
+hash = "4f4eb6b3902bd9c2f70034caf398c443bea82a7792c08b5d53101d77ee596fb0"
 metafile = true
 
 [[files]]
@@ -1004,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+hash = "d7062507251f577355a3c3e4fd3bc33ea9ac0e74ad0da2c8f0eb6c9b9c182b99"
 metafile = true
 
 [[files]]
