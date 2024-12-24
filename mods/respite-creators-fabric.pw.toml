@@ -1,0 +1,13 @@
+name = "Respite Creators [Fabric]"
+filename = "respite-creators-1.3.0-FDR.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XDKcRhiQ/versions/dZHrDfmD/respite-creators-1.3.0-FDR.jar"
+hash-format = "sha512"
+hash = "b4dfb59557c0f63df74eed1e55876021212d20c42f2d5da9ebdaca2970c9cd9e1d10b9cddd0b13b42bd9ce9dda248007bbb17bcbe171ff706a8bdcccfa749e8f"
+
+[update]
+[update.modrinth]
+mod-id = "XDKcRhiQ"
+version = "dZHrDfmD"

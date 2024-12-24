@@ -146,11 +146,15 @@ hash = "557866a46867f4fe625235a74adb28dd8acfc171e898922462ed97996df6754c"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "4a1735019efb4d8ff46319fc0ff774bf61be899181fb31da6b0e17297cf5e423"
+hash = "db4e8c0d079704fdd5d3ac430f6985313be13239d97328cb48064b3cb7099f72"
 
 [[files]]
 file = "mods/Apoli-1.20.1-2.9.0.jar"
 hash = "cd6d50180bc90538df83c0cf8d085a8ff02a4525e8b915788cefde63707f9233"
+
+[[files]]
+file = "mods/Farmersrespite-Fabric-3.0.8.jar"
+hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
 [[files]]
 file = "mods/aileron.pw.toml"
@@ -185,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "68ca8fd96c78bee8b121e1f9c2063cfe94b05ec78a0fb4168f295928bfcb54da"
+metafile = true
+
+[[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "c6a53ce756cb50dcdceab6ebd9b9594a5b33e68d4ba166c4ee1d59475ffd2d4b"
 metafile = true
 
 [[files]]
@@ -225,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "6da189b0c8713f4c7b81af3fd8207aa4c473ccabeee1770de7da1538efca0b15"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "1e77bb42d892684f7ccdccf6b82169d9bb0eb339f40bc7014ef871253a877815"
 metafile = true
 
 [[files]]
@@ -288,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fe764a97501bdf3e01430a426128e34d087e65c0e8806bbaacbdcfbc8278a750"
+hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
 metafile = true
 
 [[files]]
@@ -353,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "febab75836c6b57cbb3d9ccc7fcae260cf87109eaa2d891d429911f4f898ed22"
+hash = "b63f6fed9bc9df3c4aca0e53b568e346830c73fe20fc4f658cf500821a519cb8"
 metafile = true
 
 [[files]]
@@ -393,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ba075535787558be31d2affa927a9c9582937bd9457f76ca0fc3684827da3f80"
+hash = "70d3a7855a775deb9d55617d52a59b60af68df68e353a78319d120d5b964745d"
 metafile = true
 
 [[files]]
@@ -414,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c92aae37a2b79c96ac72e17695d1bcbdc35ca51d56f0fb8d1d9ffa9dace45274"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "8d6dee172f0c0565b2b34138f4a957e3a6fbf65891c6144c5eb3d3c0667b5aa4"
 metafile = true
 
 [[files]]
@@ -482,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "730277ea82f283cbb7812857e13129b4c65359b5bd3e163d4461bf6749f06a35"
+hash = "0a15010b592c6ade030584bdca9da112397d93820460b14d48fd64e2e398809c"
 metafile = true
 
 [[files]]
@@ -506,8 +525,13 @@ hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c169e427c31fb1a75e3b59681c5a42504859b6dc0cedf226868c28515f5bfe81"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eb1a4273056f72643891578bdea71b3fcffc5d492376d1a31ff1f177233b2df6"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
 
 [[files]]
@@ -790,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f4eb6b3902bd9c2f70034caf398c443bea82a7792c08b5d53101d77ee596fb0"
+hash = "16b74cef991fc37eb137b36ad8f2c991401c7c2c4d1f2d61f32f87e3fee1eea5"
 metafile = true
 
 [[files]]
@@ -983,8 +1007,23 @@ hash = "df51c330c67177366c1dd0f85249f3506499858072d479c308059db7fe887ff8"
 metafile = true
 
 [[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "dbc0b5ce2ab4043c9965072e7e269867b895253289eeba6cf21da9c92207e14a"
+metafile = true
+
+[[files]]
+file = "mods/scriptor-magicae.pw.toml"
+hash = "cefd78ca9586a31b646776197edac7dec6beb0f2b4383359e73b880ee8934c2c"
 metafile = true
 
 [[files]]
@@ -1164,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
+hash = "c5234ec87e6bea9194af7f6ff70d820a32ddcad7199cc0b7ee92b11f6e6edf38"
 metafile = true
 
 [[files]]
